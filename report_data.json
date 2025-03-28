@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743198012,
+  "timestamp": 1743201541,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -180,6 +180,20 @@
       "timestamp": "1741518178",
       "domain": "com",
       "isToday": false
+    }
+  ],
+  "all_users": [
+    {
+      "username": "SenHou2023",
+      "domain": "com"
+    },
+    {
+      "username": "thritik0001",
+      "domain": "com"
+    },
+    {
+      "username": "kingsley_",
+      "domain": "cn"
     }
   ]
 }

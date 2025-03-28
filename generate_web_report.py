@@ -10,8 +10,16 @@ def generate_web_report():
     tracker = LeetCodeTracker()
     report_data = {
         "timestamp": int(time.time()),
-        "submissions": []
+        "submissions": [],
+        "all_users": []  # Add a new field to track all configured users
     }
+    
+    # Add all users to the report data
+    for username in tracker.users:
+        report_data["all_users"].append({
+            "username": username,
+            "domain": tracker.user_domains.get(username, "com")
+        })
     
     # Get submissions report
     raw_report = tracker.generate_report()

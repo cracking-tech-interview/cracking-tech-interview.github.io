@@ -32,7 +32,12 @@ function updateLastUpdatedTime(timestamp) {
 }
 
 function renderTodaySummary(data) {
-    const users = [...new Set(data.submissions.map(s => s.username))];
+    let summaryHTML = '';
+    
+    // Use all_users if available, otherwise fall back to extracting users from submissions
+    const allUsers = data.all_users ? 
+        data.all_users.map(u => u.username) : 
+        [...new Set(data.submissions.map(s => s.username))];
     
     // Count problems by difficulty (only from today)
     const todaySubmissions = data.submissions.filter(s => s.isToday);
@@ -44,9 +49,6 @@ function renderTodaySummary(data) {
     // Group users by their completion status
     const usersWithSubmissionsToday = [];
     const usersWithoutSubmissionsToday = [];
-    
-    // Get list of all users from the data
-    const allUsers = [...new Set(data.submissions.map(s => s.username))];
     
     allUsers.forEach(user => {
         // Check if user has any submissions today
@@ -61,8 +63,6 @@ function renderTodaySummary(data) {
         }
     });
 
-    let summaryHTML = '';
-    
     // CHANGED ORDER: First display users without submissions today (incomplete check-ins)
     if (usersWithoutSubmissionsToday.length > 0) {
         summaryHTML += `
@@ -140,7 +140,7 @@ function renderTodaySummary(data) {
             <div class="row">
                 <div class="col-md-3 col-sm-6 mb-3">
                     <div class="stat-card">
-                        <div class="stat-number">${users.length}</div>
+                        <div class="stat-number">${allUsers.length}</div>
                         <div class="stat-label">Active Users</div>
                     </div>
                 </div>
