@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743194884,
+  "timestamp": 1743195881,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -7,7 +7,8 @@
       "titleSlug": "majority-element",
       "difficulty": "Easy",
       "timestamp": "1743187901",
-      "domain": "com"
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "SenHou2023",
@@ -15,7 +16,8 @@
       "titleSlug": "merge-two-2d-arrays-by-summing-values",
       "difficulty": "Easy",
       "timestamp": "1740959911",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -23,7 +25,8 @@
       "titleSlug": "apply-operations-to-an-array",
       "difficulty": "Easy",
       "timestamp": "1740870764",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -31,7 +34,8 @@
       "titleSlug": "most-profitable-path-in-a-tree",
       "difficulty": "Medium",
       "timestamp": "1740436070",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -39,7 +43,8 @@
       "titleSlug": "construct-binary-tree-from-preorder-and-postorder-traversal",
       "difficulty": "Medium",
       "timestamp": "1740354735",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -47,7 +52,8 @@
       "titleSlug": "find-elements-in-a-contaminated-binary-tree",
       "difficulty": "Medium",
       "timestamp": "1740173058",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -55,7 +61,8 @@
       "titleSlug": "find-unique-binary-string",
       "difficulty": "Medium",
       "timestamp": "1740038074",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -63,7 +70,8 @@
       "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
       "difficulty": "Medium",
       "timestamp": "1739939567",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -71,7 +79,8 @@
       "titleSlug": "construct-smallest-number-from-di-string",
       "difficulty": "Medium",
       "timestamp": "1739936699",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -79,7 +88,8 @@
       "titleSlug": "letter-tile-possibilities",
       "difficulty": "Medium",
       "timestamp": "1739770398",
-      "domain": "com"
+      "domain": "com",
+      "isToday": false
     },
     {
       "username": "sen_hou",
@@ -87,7 +97,8 @@
       "titleSlug": "majority-element",
       "difficulty": "Easy",
       "timestamp": 1743191365,
-      "domain": "cn"
+      "domain": "cn",
+      "isToday": true
     }
   ]
 }

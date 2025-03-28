@@ -33,81 +33,141 @@ function updateLastUpdatedTime(timestamp) {
 
 function renderTodaySummary(data) {
     const users = [...new Set(data.submissions.map(s => s.username))];
-    const easyCount = data.submissions.filter(s => s.difficulty === 'Easy').length;
-    const mediumCount = data.submissions.filter(s => s.difficulty === 'Medium').length;
-    const hardCount = data.submissions.filter(s => s.difficulty === 'Hard').length;
-    const totalProblems = data.submissions.length;
+    
+    // Count problems by difficulty (only from today)
+    const todaySubmissions = data.submissions.filter(s => s.isToday);
+    const easyCount = todaySubmissions.filter(s => s.difficulty === 'Easy').length;
+    const mediumCount = todaySubmissions.filter(s => s.difficulty === 'Medium').length;
+    const hardCount = todaySubmissions.filter(s => s.difficulty === 'Hard').length;
+    const totalProblems = todaySubmissions.length;
+    
+    // Group users by their completion status
+    const usersWithSubmissionsToday = [];
+    const usersWithoutSubmissionsToday = [];
+    
+    // Get list of all users from the data
+    const allUsers = [...new Set(data.submissions.map(s => s.username))];
+    
+    allUsers.forEach(user => {
+        // Check if user has any submissions today
+        const userSubmissionsToday = data.submissions.filter(s => 
+            s.username === user && s.isToday
+        );
+        
+        if (userSubmissionsToday.length > 0) {
+            usersWithSubmissionsToday.push(user);
+        } else {
+            usersWithoutSubmissionsToday.push(user);
+        }
+    });
 
     let summaryHTML = '';
     
-    // Add user stats
-    summaryHTML += `
-        <div class="col-md-3 col-sm-6 mb-3">
-            <div class="stat-card">
-                <div class="stat-number">${users.length}</div>
-                <div class="stat-label">Active Users</div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6 mb-3">
-            <div class="stat-card">
-                <div class="stat-number">${totalProblems}</div>
-                <div class="stat-label">Solved Today</div>
-            </div>
-        </div>
-    `;
-
-    // Add difficulty distribution
-    summaryHTML += `
-        <div class="col-md-6 mb-3">
-            <div class="stat-card">
-                <div class="d-flex justify-content-around">
-                    <div>
-                        <div class="stat-number text-success">${easyCount}</div>
-                        <div class="stat-label">Easy</div>
-                    </div>
-                    <div>
-                        <div class="stat-number text-warning">${mediumCount}</div>
-                        <div class="stat-label">Medium</div>
-                    </div>
-                    <div>
-                        <div class="stat-number text-danger">${hardCount}</div>
-                        <div class="stat-label">Hard</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    `;
-
-    // Per-user breakdown
-    summaryHTML += `
-        <div class="col-12 mt-3">
-            <h5>User Activity</h5>
-            <div class="row">
-    `;
-
-    users.forEach(user => {
-        const userSubmissions = data.submissions.filter(s => s.username === user);
-        const userEasy = userSubmissions.filter(s => s.difficulty === 'Easy').length;
-        const userMedium = userSubmissions.filter(s => s.difficulty === 'Medium').length;
-        const userHard = userSubmissions.filter(s => s.difficulty === 'Hard').length;
-        
+    // CHANGED ORDER: First display users without submissions today (incomplete check-ins)
+    if (usersWithoutSubmissionsToday.length > 0) {
         summaryHTML += `
-            <div class="col-md-4 col-sm-6 mb-3">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <h6 class="card-title">${user}</h6>
-                        <div class="d-flex justify-content-between">
-                            <span class="difficulty-badge difficulty-easy">${userEasy} Easy</span>
-                            <span class="difficulty-badge difficulty-medium">${userMedium} Medium</span>
-                            <span class="difficulty-badge difficulty-hard">${userHard} Hard</span>
+            <div class="col-12">
+                <div class="alert alert-warning">
+                    <h5>⚠️ Users Missing Today's Check-in</h5>
+                </div>
+                <div class="row">
+        `;
+
+        usersWithoutSubmissionsToday.forEach(user => {
+            summaryHTML += `
+                <div class="col-md-4 col-sm-6 mb-3">
+                    <div class="card h-100 border-warning">
+                        <div class="card-body">
+                            <h6 class="card-title">${user}</h6>
+                            <p class="text-danger">No submissions today</p>
                         </div>
                     </div>
                 </div>
+            `;
+        });
+
+        summaryHTML += `
+                </div>
             </div>
         `;
-    });
+    }
 
+    // Next display users with submissions today (completed check-ins)
+    if (usersWithSubmissionsToday.length > 0) {
+        summaryHTML += `
+            <div class="col-12 mt-3">
+                <div class="alert alert-success">
+                    <h5>✅ Users Who Completed Today's Check-in</h5>
+                </div>
+                <div class="row">
+        `;
+
+        usersWithSubmissionsToday.forEach(user => {
+            // Only count today's submissions for this user
+            const userTodaySubmissions = data.submissions.filter(s => s.username === user && s.isToday);
+            const userEasy = userTodaySubmissions.filter(s => s.difficulty === 'Easy').length;
+            const userMedium = userTodaySubmissions.filter(s => s.difficulty === 'Medium').length;
+            const userHard = userTodaySubmissions.filter(s => s.difficulty === 'Hard').length;
+            
+            summaryHTML += `
+                <div class="col-md-4 col-sm-6 mb-3">
+                    <div class="card h-100 border-success">
+                        <div class="card-body">
+                            <h6 class="card-title">${user}</h6>
+                            <div class="d-flex justify-content-between">
+                                <span class="difficulty-badge difficulty-easy">${userEasy} Easy</span>
+                                <span class="difficulty-badge difficulty-medium">${userMedium} Medium</span>
+                                <span class="difficulty-badge difficulty-hard">${userHard} Hard</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+
+        summaryHTML += `
+                </div>
+            </div>
+        `;
+    }
+    
+    // Finally add the main statistics at the bottom
     summaryHTML += `
+        <div class="col-12 mt-3">
+            <div class="alert alert-primary">
+                <h5>📊 Overall Statistics</h5>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-6 mb-3">
+                    <div class="stat-card">
+                        <div class="stat-number">${users.length}</div>
+                        <div class="stat-label">Active Users</div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 mb-3">
+                    <div class="stat-card">
+                        <div class="stat-number">${totalProblems}</div>
+                        <div class="stat-label">Solved Today</div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <div class="stat-card">
+                        <div class="d-flex justify-content-around">
+                            <div>
+                                <div class="stat-number text-success">${easyCount}</div>
+                                <div class="stat-label">Easy</div>
+                            </div>
+                            <div>
+                                <div class="stat-number text-warning">${mediumCount}</div>
+                                <div class="stat-label">Medium</div>
+                            </div>
+                            <div>
+                                <div class="stat-number text-danger">${hardCount}</div>
+                                <div class="stat-label">Hard</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     `;
@@ -125,8 +185,10 @@ function renderSubmissionsTable(submissions) {
     sortedSubmissions.forEach(submission => {
         const date = new Date(submission.timestamp * 1000);
         const timeStr = date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        const dateStr = date.toLocaleDateString();
         
         const difficultyClass = submission.difficulty.toLowerCase();
+        const rowClass = submission.isToday ? 'table-success' : '';
 
         let problemLink;
         if (submission.domain === 'cn') {
@@ -136,7 +198,7 @@ function renderSubmissionsTable(submissions) {
         }
 
         tableHTML += `
-            <tr>
+            <tr class="${rowClass}">
                 <td>${submission.username}</td>
                 <td>
                     <a href="${problemLink}" target="_blank" class="problem-link">
@@ -144,7 +206,7 @@ function renderSubmissionsTable(submissions) {
                     </a>
                 </td>
                 <td><span class="difficulty-badge difficulty-${difficultyClass}">${submission.difficulty}</span></td>
-                <td>${timeStr}</td>
+                <td>${submission.isToday ? timeStr : dateStr + ' ' + timeStr}</td>
             </tr>
         `;
     });
@@ -155,16 +217,21 @@ function renderSubmissionsTable(submissions) {
 function renderDifficultyChart(data) {
     const ctx = document.getElementById('difficulty-chart').getContext('2d');
     
-    const easyCount = data.submissions.filter(s => s.difficulty === 'Easy').length;
-    const mediumCount = data.submissions.filter(s => s.difficulty === 'Medium').length;
-    const hardCount = data.submissions.filter(s => s.difficulty === 'Hard').length;
-    const unknownCount = data.submissions.filter(s => s.difficulty === 'Unknown').length;
+    // Separate today's submissions
+    const todaySubmissions = data.submissions.filter(s => s.isToday);
+    
+    // Count by difficulty for today
+    const easyCount = todaySubmissions.filter(s => s.difficulty === 'Easy').length;
+    const mediumCount = todaySubmissions.filter(s => s.difficulty === 'Medium').length;
+    const hardCount = todaySubmissions.filter(s => s.difficulty === 'Hard').length;
+    const unknownCount = todaySubmissions.filter(s => s.difficulty === 'Unknown').length;
 
     new Chart(ctx, {
         type: 'doughnut',
         data: {
             labels: ['Easy', 'Medium', 'Hard', 'Unknown'],
             datasets: [{
+                label: 'Today\'s Submissions',
                 data: [easyCount, mediumCount, hardCount, unknownCount],
                 backgroundColor: [
                     getComputedStyle(document.documentElement).getPropertyValue('--easy-color'),
@@ -181,6 +248,10 @@ function renderDifficultyChart(data) {
             plugins: {
                 legend: {
                     position: 'bottom'
+                },
+                title: {
+                    display: true,
+                    text: 'Today\'s Submissions by Difficulty'
                 }
             }
         }
@@ -190,42 +261,69 @@ function renderDifficultyChart(data) {
 function renderActivityChart(data) {
     const ctx = document.getElementById('activity-chart').getContext('2d');
     
+    // Separate today's submissions
+    const todaySubmissions = data.submissions.filter(s => s.isToday);
+    const previousSubmissions = data.submissions.filter(s => !s.isToday);
+    
     // Group submissions by hour
-    const submissionsByHour = {};
+    const todayByHour = {};
+    const previousByHour = {};
     
     // Initialize all hours to 0
     for (let i = 0; i < 24; i++) {
-        submissionsByHour[i] = 0;
+        todayByHour[i] = 0;
+        previousByHour[i] = 0;
     }
     
-    // Count submissions per hour
-    data.submissions.forEach(submission => {
+    // Count today's submissions per hour
+    todaySubmissions.forEach(submission => {
         const date = new Date(submission.timestamp * 1000);
         const hour = date.getHours();
-        submissionsByHour[hour]++;
+        todayByHour[hour]++;
+    });
+    
+    // Count previous submissions per hour (average per day)
+    previousSubmissions.forEach(submission => {
+        const date = new Date(submission.timestamp * 1000);
+        const hour = date.getHours();
+        previousByHour[hour]++;
     });
     
     // Convert to arrays for Chart.js
     const hours = [];
-    const counts = [];
+    const todayCounts = [];
+    const previousCounts = [];
     
     for (let i = 0; i < 24; i++) {
         const hourLabel = i.toString().padStart(2, '0') + ':00';
         hours.push(hourLabel);
-        counts.push(submissionsByHour[i]);
+        todayCounts.push(todayByHour[i]);
+        
+        // Calculate average for previous days if we have multiple days of data
+        // For simplicity, we'll just show the raw counts
+        previousCounts.push(previousByHour[i]);
     }
     
     new Chart(ctx, {
         type: 'bar',
         data: {
             labels: hours,
-            datasets: [{
-                label: 'Submissions',
-                data: counts,
-                backgroundColor: 'rgba(54, 162, 235, 0.5)',
-                borderColor: 'rgba(54, 162, 235, 1)',
-                borderWidth: 1
-            }]
+            datasets: [
+                {
+                    label: 'Today',
+                    data: todayCounts,
+                    backgroundColor: 'rgba(40, 167, 69, 0.7)',
+                    borderColor: 'rgba(40, 167, 69, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Previous Days',
+                    data: previousCounts,
+                    backgroundColor: 'rgba(108, 117, 125, 0.3)',
+                    borderColor: 'rgba(108, 117, 125, 0.7)',
+                    borderWidth: 1
+                }
+            ]
         },
         options: {
             responsive: true,

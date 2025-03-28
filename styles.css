@@ -20,6 +20,15 @@ body {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 
+/* Add styles for bordered cards */
+.card.border-warning {
+    border-left: 4px solid #ffc107 !important;
+}
+
+.card.border-success {
+    border-left: 4px solid #28a745 !important;
+}
+
 .difficulty-badge {
     padding: 0.25rem 0.5rem;
     border-radius: 0.25rem;
@@ -74,6 +83,12 @@ body {
 
 footer {
     margin-top: 3rem;
+}
+
+/* Make the alert headers more noticeable */
+.alert h5 {
+    margin-bottom: 0;
+    font-weight: bold;
 }
 
 /* Responsive adjustments */
