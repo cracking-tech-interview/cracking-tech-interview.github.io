@@ -32,10 +32,11 @@ jobs:
         run: |
           python generate_web_report.py
           
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: .  # The folder containing our web files
-          branch: gh-pages  # The branch the action should deploy to
-          target-folder: .  # The folder the action should deploy to
-          clean: false  # Automatically remove deleted files from the deployment branch 
+      - name: Commit updated report data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add report_data.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update report data [skip ci]"
+          git push
+          
