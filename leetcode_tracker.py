@@ -394,13 +394,38 @@ class LeetCodeTracker:
             # Avoid hitting rate limits
             time.sleep(1)
         
+        # Prepare the report data to return
+        report_data = {}
+        for username in self.users:
+            user_data = {
+                "submissions": [],
+                "stats": {
+                    "recent_total": sum(submission_counts[username].values()),
+                    "easy": difficulty_counts[username]["Easy"],
+                    "medium": difficulty_counts[username]["Medium"],
+                    "hard": difficulty_counts[username]["Hard"],
+                    "unique": len(question_numbers[username])
+                }
+            }
+            
+            # Add total stats if available
+            if self.fetch_total_stats and username in total_stats:
+                user_data["total_stats"] = total_stats[username]
+                
+            # Add all submissions data
+            domain = self.user_domains.get(username, "com")
+            submissions = self.get_user_activity(username)
+            user_data["submissions"] = submissions
+            
+            report_data[username] = user_data
+        
         # Handle the case when no submissions are found
         if not any(submission_counts.values()):
             print("\nLeetCode Submission Report\n")
             print(f"Report Date: {today.strftime('%Y-%m-%d')}")
             print("No submissions found in the specified date range.")
             print(f"\nReport generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-            return
+            return report_data
         
         # Define headers based on whether total stats are included
         if self.fetch_total_stats:
@@ -475,6 +500,9 @@ class LeetCodeTracker:
             print("\nOnly showing recent submissions in the tracked period")
         
         print(f"\nReport generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        
+        # Return the report data
+        return report_data
 
     def get_user_stats(self, username):
         """Fetch a user's total statistics (accepted problems by difficulty)."""
