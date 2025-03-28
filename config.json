@@ -1,0 +1,12 @@
+{
+  "users": [
+    "SenHou2023",
+    {
+      "username": "sen_hou",
+      "domain": "cn" 
+    }
+  ],
+  "days_to_track": 1,
+  "fetch_total_stats": false,
+  "min_submissions": 3
+} 
