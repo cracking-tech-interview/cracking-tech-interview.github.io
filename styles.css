@@ -1,0 +1,84 @@
+:root {
+    --easy-color: #00af9b;
+    --medium-color: #ffb800;
+    --hard-color: #ff2d55;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.difficulty-badge {
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-weight: bold;
+}
+
+.difficulty-easy {
+    background-color: var(--easy-color);
+    color: white;
+}
+
+.difficulty-medium {
+    background-color: var(--medium-color);
+    color: white;
+}
+
+.difficulty-hard {
+    background-color: var(--hard-color);
+    color: white;
+}
+
+.difficulty-unknown {
+    background-color: #6c757d;
+    color: white;
+}
+
+.stat-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.stat-number {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.stat-label {
+    font-size: 0.875rem;
+    color: #6c757d;
+}
+
+.problem-link {
+    color: #0056b3;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.problem-link:hover {
+    color: #003366;
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 3rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767.98px) {
+    .stat-number {
+        font-size: 1.5rem;
+    }
+} 

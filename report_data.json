@@ -1,0 +1,45 @@
+{
+  "timestamp": 1658361600,
+  "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "timestamp": 1658361500,
+      "domain": "com"
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "timestamp": 1658361400,
+      "domain": "com"
+    },
+    {
+      "username": "sen_hou",
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "Medium",
+      "timestamp": 1658361300,
+      "domain": "cn"
+    },
+    {
+      "username": "sen_hou",
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "timestamp": 1658361200,
+      "domain": "cn"
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "Easy",
+      "timestamp": 1658361100,
+      "domain": "com"
+    }
+  ]
+} 
