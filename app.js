@@ -1,6 +1,17 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Fetch the data from the JSON file
-    fetch('report_data.json')
+    // Fetch the data from the JSON file with cache-busting
+    const timestamp = new Date().getTime(); // Current timestamp for cache busting
+    const url = `report_data.json?t=${timestamp}`;
+    
+    fetch(url, {
+        method: 'GET',
+        headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache',
+            'Expires': '0'
+        },
+        cache: 'no-store' // Force fresh fetch
+    })
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
