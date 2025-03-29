@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743210146,
+  "timestamp": 1743221153,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Index of a Valid Split",
+      "titleSlug": "minimum-index-of-a-valid-split",
+      "difficulty": "Medium",
+      "timestamp": "1743220484",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Majority Element",
@@ -79,15 +88,6 @@
       "titleSlug": "construct-smallest-number-from-di-string",
       "difficulty": "Medium",
       "timestamp": "1739936699",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Letter Tile Possibilities",
-      "titleSlug": "letter-tile-possibilities",
-      "difficulty": "Medium",
-      "timestamp": "1739770398",
       "domain": "com",
       "isToday": false
     },
@@ -180,6 +180,15 @@
       "timestamp": "1701647504",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "timestamp": 1743220502,
+      "domain": "cn",
+      "isToday": true
     }
   ],
   "all_users": [
