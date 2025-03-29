@@ -31,9 +31,9 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install tabulate requests; fi
           
-      - name: Run LeetCode tracker
-        run: |
-          python leetcode_tracker.py
+      # - name: Run LeetCode tracker
+      #   run: |
+      #     python leetcode_tracker.py
           
       - name: Generate web report
         run: |
