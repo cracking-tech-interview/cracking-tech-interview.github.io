@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 import json
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import time
 from collections import defaultdict
 import sys
 from tabulate import tabulate
 import re
+
+# Add a function to get the current time in UTC-7
+def get_utc7_now():
+    """Return current datetime in UTC-7 timezone."""
+    return datetime.now(timezone.utc) - timedelta(hours=7)
 
 class LeetCodeTracker:
     def __init__(self, config_file="config.json"):
@@ -156,10 +161,11 @@ class LeetCodeTracker:
                     timestamp = s.get("submitTime")
                     if timestamp:
                         timestamp = int(timestamp)
-                        submission_date = datetime.fromtimestamp(timestamp).date()
+                        # Use UTC-7 for timestamp conversion
+                        submission_date = (datetime.fromtimestamp(timestamp, timezone.utc) - timedelta(hours=7)).date()
                         
                         # If the submission date is too old, skip it
-                        today = datetime.now().date()
+                        today = get_utc7_now().date()
                         if (today - submission_date).days > self.days_to_track:
                             continue
                     
@@ -347,7 +353,7 @@ class LeetCodeTracker:
     def generate_report(self):
         """Generate a report of daily submission counts for all users."""
         # Get current date and calculate date range
-        today = datetime.now().date()
+        today = get_utc7_now().date()
         date_range = [today - timedelta(days=i) for i in range(self.days_to_track)]
         date_range.reverse()  # Oldest to newest
         
@@ -375,7 +381,8 @@ class LeetCodeTracker:
                 if timestamp:
                     # Convert the timestamp string to an integer
                     timestamp = int(timestamp)
-                    submission_date = datetime.fromtimestamp(timestamp).date()
+                    # Use UTC-7 for timestamp conversion
+                    submission_date = (datetime.fromtimestamp(timestamp, timezone.utc) - timedelta(hours=7)).date()
                     
                     # Only count submissions within our date range
                     if submission_date >= date_range[0] and submission_date <= date_range[-1]:
@@ -422,9 +429,9 @@ class LeetCodeTracker:
         # Handle the case when no submissions are found
         if not any(submission_counts.values()):
             print("\nLeetCode Submission Report\n")
-            print(f"Report Date: {today.strftime('%Y-%m-%d')}")
+            print(f"Report Date: {today.strftime('%Y-%m-%d')} (UTC-7)")
             print("No submissions found in the specified date range.")
-            print(f"\nReport generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+            print(f"\nReport generated on: {get_utc7_now().strftime('%Y-%m-%d %H:%M:%S')} (UTC-7)")
             return report_data
         
         # Define headers based on whether total stats are included
@@ -478,7 +485,7 @@ class LeetCodeTracker:
         
         # Print the main report
         print("\nLeetCode Submission Report\n")
-        print(f"Report Date: {today.strftime('%Y-%m-%d')}")
+        print(f"Report Date: {today.strftime('%Y-%m-%d')} (UTC-7)")
         
         # Add info about the minimum submissions threshold if set
         if self.min_submissions > 0:
@@ -499,7 +506,7 @@ class LeetCodeTracker:
         else:
             print("\nOnly showing recent submissions in the tracked period")
         
-        print(f"\nReport generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        print(f"\nReport generated on: {get_utc7_now().strftime('%Y-%m-%d %H:%M:%S')} (UTC-7)")
         
         # Return the report data
         return report_data
