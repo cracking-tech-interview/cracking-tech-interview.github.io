@@ -1,12 +1,9 @@
 {
-  "users": [
-    "SenHou2023",
-    "ablozhou",
-    {
-      "username": "kingsley_",
-      "domain": "cn" 
-    }
-  ],
+  "users_source": {
+    "type": "google_sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1cVEpR7Ua6jmxZtzV8aYUZZJSEBGhkxK1VFlJB5Qlk94/edit?usp=sharing",
+    "sheet_name": "Sheet1"
+  },
   "days_to_track": 1,
   "fetch_total_stats": false,
   "min_submissions": 1

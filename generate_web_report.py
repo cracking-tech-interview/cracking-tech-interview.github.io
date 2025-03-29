@@ -18,7 +18,8 @@ def generate_web_report():
     for username in tracker.users:
         report_data["all_users"].append({
             "username": username,
-            "domain": tracker.user_domains.get(username, "com")
+            "domain": tracker.user_domains.get(username, "com"),
+            "display_name": tracker.user_display_names.get(username, username)
         })
     
     # Get submissions report

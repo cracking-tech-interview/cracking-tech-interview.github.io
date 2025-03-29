@@ -7,6 +7,8 @@ from collections import defaultdict
 import sys
 from tabulate import tabulate
 import re
+import pandas as pd
+from io import StringIO
 
 # Add a function to get the current time in UTC-7
 def get_utc7_now():
@@ -20,24 +22,20 @@ class LeetCodeTracker:
             with open(config_file, 'r') as f:
                 self.config = json.load(f)
             
-            # Support both simple username list and detailed user config
-            users_config = self.config.get("users", [])
+            # Initialize empty user lists
             self.users = []
             self.user_domains = {}
+            self.user_display_names = {}  # Add this to store wx_name
             
-            # Parse users configuration
-            for user in users_config:
-                if isinstance(user, str):
-                    # Simple username format - default to leetcode.com
-                    self.users.append(user)
-                    self.user_domains[user] = "com"
-                elif isinstance(user, dict):
-                    # Detailed user config with domain specification
-                    username = user.get("username")
-                    domain = user.get("domain", "com")
-                    if username:
-                        self.users.append(username)
-                        self.user_domains[username] = domain
+            # Check if we're using Google Sheets as a source
+            users_source = self.config.get("users_source", {})
+            if users_source.get("type") == "google_sheet":
+                # Fetch users from Google Sheet
+                self._fetch_users_from_google_sheet(users_source)
+            else:
+                # Support both simple username list and detailed user config (legacy)
+                users_config = self.config.get("users", [])
+                self._parse_users_config(users_config)
             
             self.days_to_track = self.config.get("days_to_track", 1)
             
@@ -48,7 +46,7 @@ class LeetCodeTracker:
             self.min_submissions = self.config.get("min_submissions", 0)
             
             if not self.users:
-                print("Error: No users specified in config file.")
+                print("Error: No users specified in config file or Google Sheet.")
                 sys.exit(1)
                 
         except FileNotFoundError:
@@ -64,6 +62,74 @@ class LeetCodeTracker:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         }
         
+    def _fetch_users_from_google_sheet(self, users_source):
+        """Fetch users from Google Sheet."""
+        sheet_url = users_source.get("url")
+        if not sheet_url:
+            print("Error: Google Sheet URL not provided in config.")
+            return
+        
+        try:
+            # Convert the Google Sheet URL to export URL (CSV format)
+            export_url = sheet_url.replace("/edit?usp=sharing", "/export?format=csv")
+            
+            # Fetch the CSV content
+            response = requests.get(export_url)
+            if response.status_code != 200:
+                print(f"Error fetching Google Sheet: HTTP {response.status_code}")
+                return
+            
+            # Parse the CSV content
+            csv_content = StringIO(response.text)
+            df = pd.read_csv(csv_content)
+            
+            # Check if the required columns exist
+            required_columns = ["username", "domain"]
+            if not all(col in df.columns for col in required_columns):
+                print(f"Error: Google Sheet must contain columns: {', '.join(required_columns)}")
+                return
+            
+            # Process each row in the dataframe
+            for _, row in df.iterrows():
+                username = row.get("username")
+                if not username or pd.isna(username):
+                    continue
+                    
+                domain = row.get("domain", "com")
+                if pd.isna(domain):
+                    domain = "com"
+                    
+                wx_name = row.get("wx_name", username)
+                if pd.isna(wx_name):
+                    wx_name = username
+                
+                self.users.append(username)
+                self.user_domains[username] = domain
+                self.user_display_names[username] = wx_name
+                
+            print(f"Successfully loaded {len(self.users)} users from Google Sheet.")
+            
+        except Exception as e:
+            print(f"Error fetching users from Google Sheet: {str(e)}")
+    
+    def _parse_users_config(self, users_config):
+        """Parse users from config file (legacy method)."""
+        for user in users_config:
+            if isinstance(user, str):
+                # Simple username format - default to leetcode.com
+                self.users.append(user)
+                self.user_domains[user] = "com"
+                self.user_display_names[user] = user
+            elif isinstance(user, dict):
+                # Detailed user config with domain specification
+                username = user.get("username")
+                domain = user.get("domain", "com")
+                wx_name = user.get("wx_name", username)
+                if username:
+                    self.users.append(username)
+                    self.user_domains[username] = domain
+                    self.user_display_names[username] = wx_name
+
     def get_api_url(self, username):
         """Get the appropriate API URL based on user domain."""
         # Only used for non-CN sites now
