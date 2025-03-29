@@ -1,6 +1,24 @@
 {
-  "timestamp": 1743270220,
+  "timestamp": 1743272797,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Root Equals Sum of Children",
+      "titleSlug": "root-equals-sum-of-children",
+      "difficulty": "Easy",
+      "timestamp": "1743272412",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Smallest Even Multiple",
+      "titleSlug": "smallest-even-multiple",
+      "difficulty": "Easy",
+      "timestamp": "1743270824",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Convert the Temperature",
@@ -70,24 +88,6 @@
       "titleSlug": "construct-binary-tree-from-preorder-and-postorder-traversal",
       "difficulty": "Medium",
       "timestamp": "1740354735",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Find Elements in a Contaminated Binary Tree",
-      "titleSlug": "find-elements-in-a-contaminated-binary-tree",
-      "difficulty": "Medium",
-      "timestamp": "1740173058",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Find Unique Binary String",
-      "titleSlug": "find-unique-binary-string",
-      "difficulty": "Medium",
-      "timestamp": "1740038074",
       "domain": "com",
       "isToday": false
     },
