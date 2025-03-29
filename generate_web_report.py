@@ -2,7 +2,7 @@
 import json
 import os
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from leetcode_tracker import LeetCodeTracker
 
 def generate_web_report():
@@ -25,8 +25,11 @@ def generate_web_report():
     # Get submissions report
     raw_report = tracker.generate_report()
     
-    # Get today's date for comparison
-    today = datetime.now().date()
+    # Define UTC-7 timezone
+    utc_minus_7 = timezone(timedelta(hours=-7))
+    
+    # Get today's date in UTC-7 for comparison
+    today = datetime.now(utc_minus_7).date()
     
     # Process submissions
     for username in raw_report:
@@ -40,9 +43,9 @@ def generate_web_report():
         
         # Add each submission
         for submission in user_data.get("submissions", []):
-            # Convert timestamp to check if it's today
+            # Convert timestamp to check if it's today in UTC-7
             submission_time = int(submission.get("timestamp", 0))
-            submission_date = datetime.fromtimestamp(submission_time).date()
+            submission_date = datetime.fromtimestamp(submission_time, utc_minus_7).date()
             is_today = (submission_date == today)
             
             # Only include required data for the web report
