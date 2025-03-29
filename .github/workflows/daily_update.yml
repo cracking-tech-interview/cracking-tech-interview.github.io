@@ -3,7 +3,7 @@ name: Daily LeetCode Report Update
 on:
   schedule:
     # Run every hour from 9:05 AM to 12:05 AM (next day)
-    - cron: '59 16-23,0-6 0 * * *'
+    - cron: '59 16-23,0-6 * * *'
   workflow_dispatch:  # Allow manual triggering
 
 # Add permissions at the job level
