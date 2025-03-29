@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743224565,
+  "timestamp": 1743229711,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -189,6 +189,132 @@
       "timestamp": 1743220502,
       "domain": "cn",
       "isToday": true
+    },
+    {
+      "username": "ping2024",
+      "title": "Diameter of Binary Tree",
+      "titleSlug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "timestamp": "1724809121",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Permutation in String",
+      "titleSlug": "permutation-in-string",
+      "difficulty": "Medium",
+      "timestamp": "1724795631",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "difficulty": "Easy",
+      "timestamp": "1724786590",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Remove Duplicates from Sorted List",
+      "titleSlug": "remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "timestamp": "1724785244",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "timestamp": "1724784848",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Intersection of Two Linked Lists",
+      "titleSlug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "timestamp": "1724782943",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Linked List Cycle II",
+      "titleSlug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "timestamp": "1724740697",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "titleSlug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "timestamp": "1723937146",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Word Search",
+      "titleSlug": "word-search",
+      "difficulty": "Medium",
+      "timestamp": "1723935608",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "timestamp": "1723931864",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yangzhaocamo",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "timestamp": "1742793390",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yangzhaocamo",
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "timestamp": "1734741874",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yangzhaocamo",
+      "title": "Remove Element",
+      "titleSlug": "remove-element",
+      "difficulty": "Easy",
+      "timestamp": "1734741376",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yangzhaocamo",
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "timestamp": "1734737538",
+      "domain": "com",
+      "isToday": false
     }
   ],
   "all_users": [
@@ -206,6 +332,16 @@
       "username": "kingsley_",
       "domain": "cn",
       "display_name": "Kingsley_"
+    },
+    {
+      "username": "ping2024",
+      "domain": "com",
+      "display_name": "\u00e5\u00b0\u008f\u00e5\u00ad\u00a6\u00e7\u0094\u009f"
+    },
+    {
+      "username": "yangzhaocamo",
+      "domain": "com",
+      "display_name": "zy"
     }
   ]
 }
