@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743308767,
+  "timestamp": 1743311963,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -408,6 +408,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Ransom Note",
+      "titleSlug": "ransom-note",
+      "difficulty": "Easy",
+      "timestamp": "1743309082",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Word Pattern",
       "titleSlug": "word-pattern",
       "difficulty": "Easy",
@@ -488,11 +497,92 @@
       "isToday": false
     },
     {
-      "username": "geminiuchiha",
-      "title": "Add Two Numbers",
-      "titleSlug": "add-two-numbers",
+      "username": "qisixian1998",
+      "title": "Min Cost to Connect All Points",
+      "titleSlug": "min-cost-to-connect-all-points",
       "difficulty": "Medium",
-      "timestamp": "1716300003",
+      "timestamp": "1743310448",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Satisfiability of Equality Equations",
+      "titleSlug": "satisfiability-of-equality-equations",
+      "difficulty": "Medium",
+      "timestamp": "1741121517",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Redundant Connection",
+      "titleSlug": "redundant-connection",
+      "difficulty": "Medium",
+      "timestamp": "1741118420",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Surrounded Regions",
+      "titleSlug": "surrounded-regions",
+      "difficulty": "Medium",
+      "timestamp": "1740994248",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Possible Bipartition",
+      "titleSlug": "possible-bipartition",
+      "difficulty": "Medium",
+      "timestamp": "1740351406",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Is Graph Bipartite?",
+      "titleSlug": "is-graph-bipartite",
+      "difficulty": "Medium",
+      "timestamp": "1740273573",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Open the Lock",
+      "titleSlug": "open-the-lock",
+      "difficulty": "Medium",
+      "timestamp": "1739947035",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Sliding Puzzle",
+      "titleSlug": "sliding-puzzle",
+      "difficulty": "Hard",
+      "timestamp": "1739917369",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Course Schedule II",
+      "titleSlug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "timestamp": "1735932004",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "difficulty": "Medium",
+      "timestamp": "1735930869",
       "domain": "com",
       "isToday": false
     }
@@ -532,6 +622,11 @@
       "username": "geminiuchiha",
       "domain": "com",
       "display_name": "(IN)FINITE"
+    },
+    {
+      "username": "qisixian1998",
+      "domain": "com",
+      "display_name": "\u00e9\u00bd\u0090\u00e6\u0080\u009d\u00e8\u00b4\u00a4"
     }
   ]
 }
