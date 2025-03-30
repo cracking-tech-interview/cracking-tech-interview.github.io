@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743311963,
+  "timestamp": 1743314567,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,24 @@
     },
     {
       "username": "ablozhou",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "Easy",
+      "timestamp": "1743314543",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "timestamp": "1743313718",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Longest Substring Without Repeating Characters",
       "titleSlug": "longest-substring-without-repeating-characters",
       "difficulty": "Medium",
@@ -160,24 +178,6 @@
       "titleSlug": "longest-common-prefix",
       "difficulty": "Easy",
       "timestamp": "1701666477",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Find the Index of the First Occurrence in a String",
-      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
-      "difficulty": "Easy",
-      "timestamp": "1701660632",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Add Binary",
-      "titleSlug": "add-binary",
-      "difficulty": "Easy",
-      "timestamp": "1701647504",
       "domain": "com",
       "isToday": false
     },
