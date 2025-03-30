@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743373114,
+  "timestamp": 1743376802,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -501,9 +501,9 @@
       "title": "Min Cost to Connect All Points",
       "titleSlug": "min-cost-to-connect-all-points",
       "difficulty": "Medium",
-      "timestamp": "1743310448",
+      "timestamp": "1743375906",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "qisixian1998",
