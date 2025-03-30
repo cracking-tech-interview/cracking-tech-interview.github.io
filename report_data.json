@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743299360,
+  "timestamp": 1743304071,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Peak Index in a Mountain Array",
+      "titleSlug": "peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "timestamp": "1743303831",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Count Good Triplets",
@@ -79,15 +88,6 @@
       "titleSlug": "majority-element",
       "difficulty": "Easy",
       "timestamp": "1743187901",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Merge Two 2D Arrays by Summing Values",
-      "titleSlug": "merge-two-2d-arrays-by-summing-values",
-      "difficulty": "Easy",
-      "timestamp": "1740959911",
       "domain": "com",
       "isToday": false
     },
@@ -192,6 +192,15 @@
     },
     {
       "username": "ping2024",
+      "title": "Merge Strings Alternately",
+      "titleSlug": "merge-strings-alternately",
+      "difficulty": "Easy",
+      "timestamp": "1743299788",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Diameter of Binary Tree",
       "titleSlug": "diameter-of-binary-tree",
       "difficulty": "Easy",
@@ -268,15 +277,6 @@
       "titleSlug": "word-search",
       "difficulty": "Medium",
       "timestamp": "1723935608",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Permutations",
-      "titleSlug": "permutations",
-      "difficulty": "Medium",
-      "timestamp": "1723931864",
       "domain": "com",
       "isToday": false
     },
