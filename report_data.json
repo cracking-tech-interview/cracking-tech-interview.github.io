@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743304071,
+  "timestamp": 1743308767,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -315,6 +315,186 @@
       "timestamp": "1734737538",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "timestamp": "1743304973",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Largest Rectangle in Histogram",
+      "titleSlug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "timestamp": "1741815501",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "timestamp": "1741810995",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Next Greater Element II",
+      "titleSlug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "timestamp": "1741800552",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
+      "difficulty": "Medium",
+      "timestamp": "1741218870",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Longest Palindromic Subsequence",
+      "titleSlug": "longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "timestamp": "1741200989",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Palindromic Substrings",
+      "titleSlug": "palindromic-substrings",
+      "difficulty": "Medium",
+      "timestamp": "1741199401",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance",
+      "difficulty": "Medium",
+      "timestamp": "1740861331",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Delete Operation for Two Strings",
+      "titleSlug": "delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "timestamp": "1740853995",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Distinct Subsequences",
+      "titleSlug": "distinct-subsequences",
+      "difficulty": "Hard",
+      "timestamp": "1740768905",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Word Pattern",
+      "titleSlug": "word-pattern",
+      "difficulty": "Easy",
+      "timestamp": "1729980792",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "First Bad Version",
+      "titleSlug": "first-bad-version",
+      "difficulty": "Easy",
+      "timestamp": "1729375554",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "difficulty": "Easy",
+      "timestamp": "1729290877",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Add Digits",
+      "titleSlug": "add-digits",
+      "difficulty": "Easy",
+      "timestamp": "1729242866",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "Easy",
+      "timestamp": "1729133184",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Maximum Height of a Triangle",
+      "titleSlug": "maximum-height-of-a-triangle",
+      "difficulty": "Easy",
+      "timestamp": "1720514848",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "timestamp": "1718680031",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Power of Two",
+      "titleSlug": "power-of-two",
+      "difficulty": "Easy",
+      "timestamp": "1716355375",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Contains Duplicate II",
+      "titleSlug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "timestamp": "1716353833",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "timestamp": "1716300003",
+      "domain": "com",
+      "isToday": false
     }
   ],
   "all_users": [
@@ -342,6 +522,16 @@
       "username": "yangzhaocamo",
       "domain": "com",
       "display_name": "zy"
+    },
+    {
+      "username": "qq2448127758",
+      "domain": "com",
+      "display_name": "tw.chen"
+    },
+    {
+      "username": "geminiuchiha",
+      "domain": "com",
+      "display_name": "(IN)FINITE"
     }
   ]
 }
