@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743395150,
+  "timestamp": 1743398468,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -183,6 +183,15 @@
     },
     {
       "username": "ping2024",
+      "title": "Can Place Flowers",
+      "titleSlug": "can-place-flowers",
+      "difficulty": "Easy",
+      "timestamp": "1743396139",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Kids With the Greatest Number of Candies",
       "titleSlug": "kids-with-the-greatest-number-of-candies",
       "difficulty": "Easy",
@@ -259,15 +268,6 @@
       "titleSlug": "intersection-of-two-linked-lists",
       "difficulty": "Easy",
       "timestamp": "1724782943",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Linked List Cycle II",
-      "titleSlug": "linked-list-cycle-ii",
-      "difficulty": "Medium",
-      "timestamp": "1724740697",
       "domain": "com",
       "isToday": false
     },
