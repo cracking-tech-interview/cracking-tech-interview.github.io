@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743376802,
+  "timestamp": 1743385682,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -318,6 +318,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Sort an Array",
+      "titleSlug": "sort-an-array",
+      "difficulty": "Medium",
+      "timestamp": "1743380837",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Binary Search",
       "titleSlug": "binary-search",
       "difficulty": "Easy",
@@ -394,15 +403,6 @@
       "titleSlug": "delete-operation-for-two-strings",
       "difficulty": "Medium",
       "timestamp": "1740853995",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Distinct Subsequences",
-      "titleSlug": "distinct-subsequences",
-      "difficulty": "Hard",
-      "timestamp": "1740768905",
       "domain": "com",
       "isToday": false
     },
