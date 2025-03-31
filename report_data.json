@@ -1,12 +1,12 @@
 {
-  "timestamp": 1743390432,
+  "timestamp": 1743395150,
   "submissions": [
     {
       "username": "SenHou2023",
       "title": "Ugly Number",
       "titleSlug": "ugly-number",
       "difficulty": "Easy",
-      "timestamp": "1743390293",
+      "timestamp": "1743391332",
       "domain": "com",
       "isToday": true
     },
@@ -183,6 +183,15 @@
     },
     {
       "username": "ping2024",
+      "title": "Kids With the Greatest Number of Candies",
+      "titleSlug": "kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "timestamp": "1743395104",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Greatest Common Divisor of Strings",
       "titleSlug": "greatest-common-divisor-of-strings",
       "difficulty": "Easy",
@@ -259,15 +268,6 @@
       "titleSlug": "linked-list-cycle-ii",
       "difficulty": "Medium",
       "timestamp": "1724740697",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Convert Sorted Array to Binary Search Tree",
-      "titleSlug": "convert-sorted-array-to-binary-search-tree",
-      "difficulty": "Easy",
-      "timestamp": "1723937146",
       "domain": "com",
       "isToday": false
     },
