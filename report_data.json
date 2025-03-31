@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743385682,
+  "timestamp": 1743390432,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Ugly Number",
+      "titleSlug": "ugly-number",
+      "difficulty": "Easy",
+      "timestamp": "1743390293",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Peak Index in a Mountain Array",
@@ -79,15 +88,6 @@
       "titleSlug": "minimum-index-of-a-valid-split",
       "difficulty": "Medium",
       "timestamp": "1743220484",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Majority Element",
-      "titleSlug": "majority-element",
-      "difficulty": "Easy",
-      "timestamp": "1743187901",
       "domain": "com",
       "isToday": false
     },
@@ -183,6 +183,15 @@
     },
     {
       "username": "ping2024",
+      "title": "Greatest Common Divisor of Strings",
+      "titleSlug": "greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "timestamp": "1743388011",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Merge Strings Alternately",
       "titleSlug": "merge-strings-alternately",
       "difficulty": "Easy",
@@ -259,15 +268,6 @@
       "titleSlug": "convert-sorted-array-to-binary-search-tree",
       "difficulty": "Easy",
       "timestamp": "1723937146",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Word Search",
-      "titleSlug": "word-search",
-      "difficulty": "Medium",
-      "timestamp": "1723935608",
       "domain": "com",
       "isToday": false
     },
