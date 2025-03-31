@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743398468,
+  "timestamp": 1743402676,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Min Cost to Connect All Points",
+      "titleSlug": "min-cost-to-connect-all-points",
+      "difficulty": "Medium",
+      "timestamp": "1743401527",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Majority Element",
       "titleSlug": "majority-element",
       "difficulty": "Easy",
@@ -169,15 +178,6 @@
       "titleSlug": "minimum-path-sum",
       "difficulty": "Medium",
       "timestamp": "1719872482",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Longest Common Prefix",
-      "titleSlug": "longest-common-prefix",
-      "difficulty": "Easy",
-      "timestamp": "1701666477",
       "domain": "com",
       "isToday": false
     },
@@ -270,6 +270,15 @@
       "timestamp": "1724782943",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "yangzhaocamo",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "timestamp": "1743402603",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "yangzhaocamo",
@@ -408,6 +417,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "timestamp": "1743402422",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Ransom Note",
       "titleSlug": "ransom-note",
       "difficulty": "Easy",
@@ -484,15 +502,6 @@
       "titleSlug": "power-of-two",
       "difficulty": "Easy",
       "timestamp": "1716355375",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Contains Duplicate II",
-      "titleSlug": "contains-duplicate-ii",
-      "difficulty": "Easy",
-      "timestamp": "1716353833",
       "domain": "com",
       "isToday": false
     },
