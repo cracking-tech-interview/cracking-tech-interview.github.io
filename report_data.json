@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743481592,
+  "timestamp": 1743484861,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -327,6 +327,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Remove Element",
+      "titleSlug": "remove-element",
+      "difficulty": "Easy",
+      "timestamp": "1743483936",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Sort an Array",
       "titleSlug": "sort-an-array",
       "difficulty": "Medium",
@@ -403,15 +412,6 @@
       "titleSlug": "edit-distance",
       "difficulty": "Medium",
       "timestamp": "1740861331",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Delete Operation for Two Strings",
-      "titleSlug": "delete-operation-for-two-strings",
-      "difficulty": "Medium",
-      "timestamp": "1740853995",
       "domain": "com",
       "isToday": false
     },
