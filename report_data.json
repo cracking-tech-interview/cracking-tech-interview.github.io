@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743542381,
+  "timestamp": 1743546001,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Jump Game",
+      "titleSlug": "jump-game",
+      "difficulty": "Medium",
+      "timestamp": "1743545874",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Best Time to Buy and Sell Stock II",
       "titleSlug": "best-time-to-buy-and-sell-stock-ii",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
       "timestamp": "1720033269",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Climbing Stairs",
-      "titleSlug": "climbing-stairs",
-      "difficulty": "Easy",
-      "timestamp": "1720029130",
       "domain": "com",
       "isToday": false
     },
