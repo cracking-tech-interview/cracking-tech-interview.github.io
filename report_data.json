@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743484861,
+  "timestamp": 1743489086,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -273,6 +273,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "Easy",
+      "timestamp": "1743488626",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Best Time to Buy and Sell Stock",
       "titleSlug": "best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
@@ -417,6 +426,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Rotate Array",
+      "titleSlug": "rotate-array",
+      "difficulty": "Medium",
+      "timestamp": "1743486180",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Remove Duplicates from Sorted Array II",
       "titleSlug": "remove-duplicates-from-sorted-array-ii",
       "difficulty": "Medium",
@@ -493,15 +511,6 @@
       "titleSlug": "binary-search",
       "difficulty": "Easy",
       "timestamp": "1718680031",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Power of Two",
-      "titleSlug": "power-of-two",
-      "difficulty": "Easy",
-      "timestamp": "1716355375",
       "domain": "com",
       "isToday": false
     },
