@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743477249,
+  "timestamp": 1743481592,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Power of Two",
+      "titleSlug": "power-of-two",
+      "difficulty": "Easy",
+      "timestamp": "1743481285",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Ugly Number",
@@ -79,15 +88,6 @@
       "titleSlug": "add-two-integers",
       "difficulty": "Easy",
       "timestamp": "1743269533",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Minimum Index of a Valid Split",
-      "titleSlug": "minimum-index-of-a-valid-split",
-      "difficulty": "Medium",
-      "timestamp": "1743220484",
       "domain": "com",
       "isToday": false
     },
@@ -183,6 +183,24 @@
     },
     {
       "username": "ping2024",
+      "title": "String Compression",
+      "titleSlug": "string-compression",
+      "difficulty": "Medium",
+      "timestamp": "1743479910",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
+      "title": "Increasing Triplet Subsequence",
+      "titleSlug": "increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "timestamp": "1743477848",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Reverse Vowels of a String",
       "titleSlug": "reverse-vowels-of-a-string",
       "difficulty": "Easy",
@@ -250,24 +268,6 @@
       "titleSlug": "move-zeroes",
       "difficulty": "Easy",
       "timestamp": "1724786590",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Remove Duplicates from Sorted List",
-      "titleSlug": "remove-duplicates-from-sorted-list",
-      "difficulty": "Easy",
-      "timestamp": "1724785244",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Remove Duplicates from Sorted Array",
-      "titleSlug": "remove-duplicates-from-sorted-array",
-      "difficulty": "Easy",
-      "timestamp": "1724784848",
       "domain": "com",
       "isToday": false
     },
