@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743567932,
+  "timestamp": 1743571324,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -318,6 +318,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Length of Last Word",
+      "titleSlug": "length-of-last-word",
+      "difficulty": "Easy",
+      "timestamp": "1743571081",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Roman to Integer",
       "titleSlug": "roman-to-integer",
       "difficulty": "Easy",
@@ -378,6 +387,24 @@
       "timestamp": "1734737538",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "timestamp": "1743569386",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "timestamp": "1743568050",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "qq2448127758",
@@ -448,24 +475,6 @@
       "titleSlug": "next-greater-element-ii",
       "difficulty": "Medium",
       "timestamp": "1741800552",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Daily Temperatures",
-      "titleSlug": "daily-temperatures",
-      "difficulty": "Medium",
-      "timestamp": "1741218870",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Longest Palindromic Subsequence",
-      "titleSlug": "longest-palindromic-subsequence",
-      "difficulty": "Medium",
-      "timestamp": "1741200989",
       "domain": "com",
       "isToday": false
     },
