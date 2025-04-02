@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743549628,
+  "timestamp": 1743558266,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Jump Game",
+      "titleSlug": "jump-game",
+      "difficulty": "Medium",
+      "timestamp": "1743558029",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Power of Two",
@@ -83,20 +92,11 @@
       "isToday": false
     },
     {
-      "username": "SenHou2023",
-      "title": "Add Two Integers",
-      "titleSlug": "add-two-integers",
-      "difficulty": "Easy",
-      "timestamp": "1743269533",
-      "domain": "com",
-      "isToday": false
-    },
-    {
       "username": "ablozhou",
       "title": "Jump Game II",
       "titleSlug": "jump-game-ii",
       "difficulty": "Medium",
-      "timestamp": "1743548864",
+      "timestamp": "1743552542",
       "domain": "com",
       "isToday": true
     },
@@ -180,6 +180,33 @@
       "timestamp": "1720128864",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "timestamp": 1743554834,
+      "domain": "cn",
+      "isToday": true
+    },
+    {
+      "username": "kingsley_",
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "timestamp": 1743553820,
+      "domain": "cn",
+      "isToday": true
+    },
+    {
+      "username": "kingsley_",
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "Medium",
+      "timestamp": 1743552907,
+      "domain": "cn",
+      "isToday": true
     },
     {
       "username": "kingsley_",
