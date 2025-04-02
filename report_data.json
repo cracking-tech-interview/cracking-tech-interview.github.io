@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743575421,
+  "timestamp": 1743578466,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Medium",
       "timestamp": "1743558029",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -98,7 +98,7 @@
       "difficulty": "Medium",
       "timestamp": "1743552542",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -107,7 +107,7 @@
       "difficulty": "Medium",
       "timestamp": "1743545874",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -188,7 +188,7 @@
       "difficulty": "Medium",
       "timestamp": 1743573976,
       "domain": "cn",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "kingsley_",
@@ -197,7 +197,7 @@
       "difficulty": "Medium",
       "timestamp": 1743554834,
       "domain": "cn",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "kingsley_",
@@ -206,7 +206,7 @@
       "difficulty": "Hard",
       "timestamp": 1743553820,
       "domain": "cn",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "kingsley_",
@@ -214,24 +214,6 @@
       "titleSlug": "3sum",
       "difficulty": "Medium",
       "timestamp": 1743552907,
-      "domain": "cn",
-      "isToday": true
-    },
-    {
-      "username": "kingsley_",
-      "title": "Container With Most Water",
-      "titleSlug": "container-with-most-water",
-      "difficulty": "Medium",
-      "timestamp": 1743489659,
-      "domain": "cn",
-      "isToday": false
-    },
-    {
-      "username": "kingsley_",
-      "title": "Move Zeroes",
-      "titleSlug": "move-zeroes",
-      "difficulty": "Easy",
-      "timestamp": 1743489182,
       "domain": "cn",
       "isToday": false
     },
@@ -242,7 +224,7 @@
       "difficulty": "Medium",
       "timestamp": "1743572174",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ping2024",
@@ -332,7 +314,7 @@
       "difficulty": "Easy",
       "timestamp": "1743571081",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "yangzhaocamo",
@@ -404,7 +386,7 @@
       "difficulty": "Medium",
       "timestamp": "1743572165",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -413,7 +395,7 @@
       "difficulty": "Easy",
       "timestamp": "1743569386",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -422,7 +404,7 @@
       "difficulty": "Easy",
       "timestamp": "1743568050",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -431,7 +413,7 @@
       "difficulty": "Medium",
       "timestamp": "1743566726",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -440,7 +422,7 @@
       "difficulty": "Easy",
       "timestamp": "1743563854",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -484,6 +466,15 @@
       "titleSlug": "trapping-rain-water",
       "difficulty": "Hard",
       "timestamp": "1741810995",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Best Time to Buy and Sell Stock II",
+      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "timestamp": "1743576883",
       "domain": "com",
       "isToday": false
     },
@@ -569,22 +560,13 @@
       "isToday": false
     },
     {
-      "username": "geminiuchiha",
-      "title": "Binary Search",
-      "titleSlug": "binary-search",
-      "difficulty": "Easy",
-      "timestamp": "1718680031",
-      "domain": "com",
-      "isToday": false
-    },
-    {
       "username": "qisixian1998",
       "title": "Network Delay Time",
       "titleSlug": "network-delay-time",
       "difficulty": "Medium",
       "timestamp": "1743567547",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qisixian1998",
