@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743718761,
+  "timestamp": 1743722494,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Insert Delete GetRandom O(1)",
+      "titleSlug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "timestamp": "1743720609",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "H-Index",
       "titleSlug": "h-index",
       "difficulty": "Medium",
@@ -173,15 +182,6 @@
       "isToday": false
     },
     {
-      "username": "ablozhou",
-      "title": "Longest Substring Without Repeating Characters",
-      "titleSlug": "longest-substring-without-repeating-characters",
-      "difficulty": "Medium",
-      "timestamp": "1742780322",
-      "domain": "com",
-      "isToday": false
-    },
-    {
       "username": "kingsley_",
       "title": "Subarray Sum Equals K",
       "titleSlug": "subarray-sum-equals-k",
@@ -198,6 +198,15 @@
       "timestamp": 1743661232,
       "domain": "cn",
       "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "timestamp": "1743719635",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "ping2024",
@@ -277,15 +286,6 @@
       "titleSlug": "merge-strings-alternately",
       "difficulty": "Easy",
       "timestamp": "1743299788",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Diameter of Binary Tree",
-      "titleSlug": "diameter-of-binary-tree",
-      "difficulty": "Easy",
-      "timestamp": "1724809121",
       "domain": "com",
       "isToday": false
     },
@@ -462,6 +462,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "H-Index",
+      "titleSlug": "h-index",
+      "difficulty": "Medium",
+      "timestamp": "1743718863",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Jump Game",
       "titleSlug": "jump-game",
       "difficulty": "Medium",
@@ -542,13 +551,13 @@
       "isToday": false
     },
     {
-      "username": "geminiuchiha",
-      "title": "Valid Anagram",
-      "titleSlug": "valid-anagram",
-      "difficulty": "Easy",
-      "timestamp": "1729133184",
+      "username": "qisixian1998",
+      "title": "Path With Minimum Effort",
+      "titleSlug": "path-with-minimum-effort",
+      "difficulty": "Medium",
+      "timestamp": "1743722350",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "qisixian1998",
@@ -628,15 +637,6 @@
       "titleSlug": "is-graph-bipartite",
       "difficulty": "Medium",
       "timestamp": "1740273573",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Open the Lock",
-      "titleSlug": "open-the-lock",
-      "difficulty": "Medium",
-      "timestamp": "1739947035",
       "domain": "com",
       "isToday": false
     }
