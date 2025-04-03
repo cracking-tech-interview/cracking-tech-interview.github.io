@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743715166,
+  "timestamp": 1743718761,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -552,6 +552,15 @@
     },
     {
       "username": "qisixian1998",
+      "title": "Network Delay Time",
+      "titleSlug": "network-delay-time",
+      "difficulty": "Medium",
+      "timestamp": "1743716597",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
       "title": "Reachable Nodes In Subdivided Graph",
       "titleSlug": "reachable-nodes-in-subdivided-graph",
       "difficulty": "Hard",
@@ -628,15 +637,6 @@
       "titleSlug": "open-the-lock",
       "difficulty": "Medium",
       "timestamp": "1739947035",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Sliding Puzzle",
-      "titleSlug": "sliding-puzzle",
-      "difficulty": "Hard",
-      "timestamp": "1739917369",
       "domain": "com",
       "isToday": false
     }
