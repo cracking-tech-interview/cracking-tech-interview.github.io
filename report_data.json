@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743657629,
+  "timestamp": 1743661839,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -183,6 +183,24 @@
     },
     {
       "username": "kingsley_",
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "timestamp": 1743661315,
+      "domain": "cn",
+      "isToday": true
+    },
+    {
+      "username": "kingsley_",
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "timestamp": 1743661232,
+      "domain": "cn",
+      "isToday": true
+    },
+    {
+      "username": "kingsley_",
       "title": "Find All Anagrams in a String",
       "titleSlug": "find-all-anagrams-in-a-string",
       "difficulty": "Medium",
@@ -216,6 +234,15 @@
       "timestamp": 1743552907,
       "domain": "cn",
       "isToday": false
+    },
+    {
+      "username": "ping2024",
+      "title": "Maximum Average Subarray I",
+      "titleSlug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "timestamp": "1743661630",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "ping2024",
@@ -295,15 +322,6 @@
       "titleSlug": "diameter-of-binary-tree",
       "difficulty": "Easy",
       "timestamp": "1724809121",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Permutation in String",
-      "titleSlug": "permutation-in-string",
-      "difficulty": "Medium",
-      "timestamp": "1724795631",
       "domain": "com",
       "isToday": false
     },
