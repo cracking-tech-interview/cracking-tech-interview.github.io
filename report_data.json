@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743801548,
+  "timestamp": 1743805176,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "timestamp": "1743805166",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Insert Delete GetRandom O(1)",
       "titleSlug": "insert-delete-getrandom-o1",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "majority-element",
       "difficulty": "Easy",
       "timestamp": "1743314543",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Remove Duplicates from Sorted Array II",
-      "titleSlug": "remove-duplicates-from-sorted-array-ii",
-      "difficulty": "Medium",
-      "timestamp": "1743313718",
       "domain": "com",
       "isToday": false
     },
