@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743744068,
+  "timestamp": 1743748208,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -288,6 +288,15 @@
       "timestamp": "1743395104",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "yangzhaocamo",
+      "title": "Find the Index of the First Occurrence in a String",
+      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "timestamp": "1743748266",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "yangzhaocamo",
