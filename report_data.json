@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743751229,
+  "timestamp": 1743787108,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "Medium",
+      "timestamp": "1743765097",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "H-Index",
       "titleSlug": "h-index",
       "difficulty": "Medium",
@@ -533,13 +542,13 @@
       "isToday": false
     },
     {
-      "username": "geminiuchiha",
-      "title": "Add Digits",
-      "titleSlug": "add-digits",
-      "difficulty": "Easy",
-      "timestamp": "1729242866",
+      "username": "qisixian1998",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "timestamp": "1743753826",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "qisixian1998",
@@ -619,15 +628,6 @@
       "titleSlug": "possible-bipartition",
       "difficulty": "Medium",
       "timestamp": "1740351406",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Is Graph Bipartite?",
-      "titleSlug": "is-graph-bipartite",
-      "difficulty": "Medium",
-      "timestamp": "1740273573",
       "domain": "com",
       "isToday": false
     }
