@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743735648,
+  "timestamp": 1743740712,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "timestamp": "1743739068",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Spiral Matrix II",
@@ -79,15 +88,6 @@
       "titleSlug": "xor-operation-in-an-array",
       "difficulty": "Easy",
       "timestamp": "1743276228",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Root Equals Sum of Children",
-      "titleSlug": "root-equals-sum-of-children",
-      "difficulty": "Easy",
-      "timestamp": "1743272412",
       "domain": "com",
       "isToday": false
     },
@@ -372,6 +372,33 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "Easy",
+      "timestamp": "1743738690",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "Medium",
+      "timestamp": "1743737790",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Combination Sum",
+      "titleSlug": "combination-sum",
+      "difficulty": "Medium",
+      "timestamp": "1743736899",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Reverse Linked List",
       "titleSlug": "reverse-linked-list",
       "difficulty": "Easy",
@@ -430,33 +457,6 @@
       "titleSlug": "insert-interval",
       "difficulty": "Medium",
       "timestamp": "1743572165",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Best Time to Buy and Sell Stock",
-      "titleSlug": "best-time-to-buy-and-sell-stock",
-      "difficulty": "Easy",
-      "timestamp": "1743569386",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Two Sum",
-      "titleSlug": "two-sum",
-      "difficulty": "Easy",
-      "timestamp": "1743568050",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Minimum Size Subarray Sum",
-      "titleSlug": "minimum-size-subarray-sum",
-      "difficulty": "Medium",
-      "timestamp": "1743566726",
       "domain": "com",
       "isToday": false
     },
