@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743722494,
+  "timestamp": 1743730968,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -201,6 +201,24 @@
     },
     {
       "username": "ping2024",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "timestamp": "1743725237",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
+      "title": "Max Consecutive Ones III",
+      "titleSlug": "max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "timestamp": "1743723468",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Maximum Number of Vowels in a Substring of Given Length",
       "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
       "difficulty": "Medium",
@@ -268,24 +286,6 @@
       "titleSlug": "kids-with-the-greatest-number-of-candies",
       "difficulty": "Easy",
       "timestamp": "1743395104",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Greatest Common Divisor of Strings",
-      "titleSlug": "greatest-common-divisor-of-strings",
-      "difficulty": "Easy",
-      "timestamp": "1743388011",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Merge Strings Alternately",
-      "titleSlug": "merge-strings-alternately",
-      "difficulty": "Easy",
-      "timestamp": "1743299788",
       "domain": "com",
       "isToday": false
     },
