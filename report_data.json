@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743730968,
+  "timestamp": 1743735648,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -372,6 +372,24 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "timestamp": "1743734898",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Design Linked List",
+      "titleSlug": "design-linked-list",
+      "difficulty": "Medium",
+      "timestamp": "1743734466",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Product of Array Except Self",
       "titleSlug": "product-of-array-except-self",
       "difficulty": "Medium",
@@ -439,24 +457,6 @@
       "titleSlug": "minimum-size-subarray-sum",
       "difficulty": "Medium",
       "timestamp": "1743566726",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Squares of a Sorted Array",
-      "titleSlug": "squares-of-a-sorted-array",
-      "difficulty": "Easy",
-      "timestamp": "1743563854",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Remove Element",
-      "titleSlug": "remove-element",
-      "difficulty": "Easy",
-      "timestamp": "1743483936",
       "domain": "com",
       "isToday": false
     },
