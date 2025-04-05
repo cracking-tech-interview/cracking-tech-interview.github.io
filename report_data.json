@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743830428,
+  "timestamp": 1743834451,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -183,6 +183,33 @@
     },
     {
       "username": "ping2024",
+      "title": "Find the Difference of Two Arrays",
+      "titleSlug": "find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "timestamp": "1743833718",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
+      "title": "Find Pivot Index",
+      "titleSlug": "find-pivot-index",
+      "difficulty": "Easy",
+      "timestamp": "1743832605",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
+      "title": "Find the Highest Altitude",
+      "titleSlug": "find-the-highest-altitude",
+      "difficulty": "Easy",
+      "timestamp": "1743831773",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Longest Subarray of 1's After Deleting One Element",
       "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
       "difficulty": "Medium",
@@ -241,33 +268,6 @@
       "titleSlug": "increasing-triplet-subsequence",
       "difficulty": "Medium",
       "timestamp": "1743477848",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Reverse Vowels of a String",
-      "titleSlug": "reverse-vowels-of-a-string",
-      "difficulty": "Easy",
-      "timestamp": "1743476665",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Can Place Flowers",
-      "titleSlug": "can-place-flowers",
-      "difficulty": "Easy",
-      "timestamp": "1743396139",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Kids With the Greatest Number of Candies",
-      "titleSlug": "kids-with-the-greatest-number-of-candies",
-      "difficulty": "Easy",
-      "timestamp": "1743395104",
       "domain": "com",
       "isToday": false
     },
