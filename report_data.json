@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743827058,
+  "timestamp": 1743830428,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,24 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "Medium",
+      "timestamp": "1743829034",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "difficulty": "Easy",
+      "timestamp": "1743827617",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Sort Colors",
       "titleSlug": "sort-colors",
       "difficulty": "Medium",
@@ -430,24 +448,6 @@
       "titleSlug": "design-linked-list",
       "difficulty": "Medium",
       "timestamp": "1743734466",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Product of Array Except Self",
-      "titleSlug": "product-of-array-except-self",
-      "difficulty": "Medium",
-      "timestamp": "1743655293",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "3Sum",
-      "titleSlug": "3sum",
-      "difficulty": "Medium",
-      "timestamp": "1743654168",
       "domain": "com",
       "isToday": false
     },
