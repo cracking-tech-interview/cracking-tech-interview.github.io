@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743808768,
+  "timestamp": 1743817276,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Gas Station",
+      "titleSlug": "gas-station",
+      "difficulty": "Medium",
+      "timestamp": "1743810183",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Product of Array Except Self",
       "titleSlug": "product-of-array-except-self",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "min-cost-to-connect-all-points",
       "difficulty": "Medium",
       "timestamp": "1743442118",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Majority Element",
-      "titleSlug": "majority-element",
-      "difficulty": "Easy",
-      "timestamp": "1743314543",
       "domain": "com",
       "isToday": false
     },
@@ -546,7 +546,7 @@
       "title": "Permutations",
       "titleSlug": "permutations",
       "difficulty": "Medium",
-      "timestamp": "1743753826",
+      "timestamp": "1743810737",
       "domain": "com",
       "isToday": true
     },
