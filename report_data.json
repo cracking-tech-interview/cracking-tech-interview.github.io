@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743880490,
+  "timestamp": 1743884431,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -366,7 +366,7 @@
       "title": "Rotate Array",
       "titleSlug": "rotate-array",
       "difficulty": "Medium",
-      "timestamp": "1743880425",
+      "timestamp": "1743880684",
       "domain": "com",
       "isToday": true
     },
