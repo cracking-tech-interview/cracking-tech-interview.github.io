@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743821905,
+  "timestamp": 1743824115,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Swap Nodes in Pairs",
+      "titleSlug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "timestamp": "1743823885",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Majority Element",
       "titleSlug": "majority-element",
       "difficulty": "Easy",
@@ -439,15 +448,6 @@
       "titleSlug": "spiral-matrix-ii",
       "difficulty": "Medium",
       "timestamp": "1743651591",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Insert Interval",
-      "titleSlug": "insert-interval",
-      "difficulty": "Medium",
-      "timestamp": "1743572165",
       "domain": "com",
       "isToday": false
     },
