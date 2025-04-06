@@ -1,6 +1,15 @@
 {
-  "timestamp": 1743904090,
+  "timestamp": 1743908719,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "timestamp": "1743905343",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Gas Station",
@@ -83,13 +92,31 @@
       "isToday": false
     },
     {
-      "username": "SenHou2023",
-      "title": "Number of Good Pairs",
-      "titleSlug": "number-of-good-pairs",
+      "username": "ablozhou",
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
       "difficulty": "Easy",
-      "timestamp": "1743277290",
+      "timestamp": "1743908567",
       "domain": "com",
-      "isToday": false
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "timestamp": "1743905593",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
+      "title": "Remove Element",
+      "titleSlug": "remove-element",
+      "difficulty": "Easy",
+      "timestamp": "1743904453",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "ablozhou",
@@ -151,33 +178,6 @@
       "titleSlug": "jump-game",
       "difficulty": "Medium",
       "timestamp": "1743545874",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Best Time to Buy and Sell Stock II",
-      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
-      "difficulty": "Medium",
-      "timestamp": "1743490637",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Best Time to Buy and Sell Stock",
-      "titleSlug": "best-time-to-buy-and-sell-stock",
-      "difficulty": "Easy",
-      "timestamp": "1743489169",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Rotate Array",
-      "titleSlug": "rotate-array",
-      "difficulty": "Medium",
-      "timestamp": "1743443992",
       "domain": "com",
       "isToday": false
     },
