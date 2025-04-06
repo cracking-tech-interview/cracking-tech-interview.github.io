@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743920916,
+  "timestamp": 1743923895,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Medium",
       "timestamp": "1743905343",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -98,7 +98,7 @@
       "difficulty": "Easy",
       "timestamp": "1743909329",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -107,7 +107,7 @@
       "difficulty": "Easy",
       "timestamp": "1743908567",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -116,7 +116,7 @@
       "difficulty": "Easy",
       "timestamp": "1743905593",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -125,7 +125,7 @@
       "difficulty": "Easy",
       "timestamp": "1743904453",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -134,7 +134,7 @@
       "difficulty": "Easy",
       "timestamp": "1743903848",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -182,13 +182,22 @@
       "isToday": false
     },
     {
+      "username": "kingsley_",
+      "title": "3Sum Closest",
+      "titleSlug": "3sum-closest",
+      "difficulty": "Medium",
+      "timestamp": 1743922236,
+      "domain": "cn",
+      "isToday": false
+    },
+    {
       "username": "ping2024",
       "title": "Determine if Two Strings Are Close",
       "titleSlug": "determine-if-two-strings-are-close",
       "difficulty": "Medium",
       "timestamp": "1743918764",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ping2024",
@@ -197,7 +206,7 @@
       "difficulty": "Easy",
       "timestamp": "1743914626",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ping2024",
@@ -278,7 +287,7 @@
       "difficulty": "Easy",
       "timestamp": "1743874821",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "yangzhaocamo",
@@ -368,7 +377,7 @@
       "difficulty": "Easy",
       "timestamp": "1743917051",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -377,7 +386,7 @@
       "difficulty": "Easy",
       "timestamp": "1743916546",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -386,7 +395,7 @@
       "difficulty": "Medium",
       "timestamp": "1743915521",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -395,7 +404,7 @@
       "difficulty": "Medium",
       "timestamp": "1743880684",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -404,7 +413,7 @@
       "difficulty": "Medium",
       "timestamp": "1743876711",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -413,7 +422,7 @@
       "difficulty": "Medium",
       "timestamp": "1743874290",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -422,7 +431,7 @@
       "difficulty": "Easy",
       "timestamp": "1743873520",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -431,7 +440,7 @@
       "difficulty": "Medium",
       "timestamp": "1743873029",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -458,7 +467,7 @@
       "difficulty": "Medium",
       "timestamp": "1743914154",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
@@ -548,7 +557,7 @@
       "difficulty": "Hard",
       "timestamp": "1743841322",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qisixian1998",
