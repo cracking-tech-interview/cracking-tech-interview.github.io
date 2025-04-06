@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743916764,
+  "timestamp": 1743920916,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -183,6 +183,15 @@
     },
     {
       "username": "ping2024",
+      "title": "Determine if Two Strings Are Close",
+      "titleSlug": "determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "timestamp": "1743918764",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Unique Number of Occurrences",
       "titleSlug": "unique-number-of-occurrences",
       "difficulty": "Easy",
@@ -259,15 +268,6 @@
       "titleSlug": "max-number-of-k-sum-pairs",
       "difficulty": "Medium",
       "timestamp": "1743572174",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "String Compression",
-      "titleSlug": "string-compression",
-      "difficulty": "Medium",
-      "timestamp": "1743479910",
       "domain": "com",
       "isToday": false
     },
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Intersection of Two Arrays",
+      "titleSlug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "timestamp": "1743917051",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Move Zeroes",
       "titleSlug": "move-zeroes",
       "difficulty": "Easy",
@@ -439,15 +448,6 @@
       "titleSlug": "contains-duplicate",
       "difficulty": "Easy",
       "timestamp": "1743827617",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Sort Colors",
-      "titleSlug": "sort-colors",
-      "difficulty": "Medium",
-      "timestamp": "1743827044",
       "domain": "com",
       "isToday": false
     },
