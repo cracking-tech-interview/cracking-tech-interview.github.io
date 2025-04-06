@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743895211,
+  "timestamp": 1743904090,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "timestamp": "1743903848",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Gas Station",
       "titleSlug": "gas-station",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "rotate-array",
       "difficulty": "Medium",
       "timestamp": "1743443992",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Min Cost to Connect All Points",
-      "titleSlug": "min-cost-to-connect-all-points",
-      "difficulty": "Medium",
-      "timestamp": "1743442118",
       "domain": "com",
       "isToday": false
     },
