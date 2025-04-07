@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744007466,
+  "timestamp": 1744010512,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Medium",
       "timestamp": "1743998225",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -98,7 +98,7 @@
       "difficulty": "Medium",
       "timestamp": "1743999252",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -107,7 +107,7 @@
       "difficulty": "Medium",
       "timestamp": "1743998739",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -116,7 +116,7 @@
       "difficulty": "Medium",
       "timestamp": "1743992716",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -125,7 +125,7 @@
       "difficulty": "Medium",
       "timestamp": "1743989106",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -134,7 +134,7 @@
       "difficulty": "Medium",
       "timestamp": "1743988538",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -182,20 +182,11 @@
       "isToday": false
     },
     {
-      "username": "kingsley_",
-      "title": "3Sum Closest",
-      "titleSlug": "3sum-closest",
-      "difficulty": "Medium",
-      "timestamp": 1743922236,
-      "domain": "cn",
-      "isToday": false
-    },
-    {
       "username": "ping2024",
       "title": "Determine if Two Strings Are Close",
       "titleSlug": "determine-if-two-strings-are-close",
       "difficulty": "Medium",
-      "timestamp": "1743918764",
+      "timestamp": "1744007637",
       "domain": "com",
       "isToday": false
     },
@@ -287,7 +278,7 @@
       "difficulty": "Easy",
       "timestamp": "1743995094",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "yangzhaocamo",
@@ -377,7 +368,7 @@
       "difficulty": "Easy",
       "timestamp": "1743999763",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -386,7 +377,7 @@
       "difficulty": "Hard",
       "timestamp": "1743999276",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -395,7 +386,7 @@
       "difficulty": "Medium",
       "timestamp": "1743996158",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -404,7 +395,7 @@
       "difficulty": "Medium",
       "timestamp": "1743994324",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -413,7 +404,7 @@
       "difficulty": "Medium",
       "timestamp": "1743992590",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -467,7 +458,7 @@
       "difficulty": "Medium",
       "timestamp": "1744000857",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
