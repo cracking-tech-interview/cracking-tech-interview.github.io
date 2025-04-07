@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744057404,
+  "timestamp": 1744060822,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Reverse String",
+      "titleSlug": "reverse-string",
+      "difficulty": "Easy",
+      "timestamp": "1744060655",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Squares of a Sorted Array",
       "titleSlug": "squares-of-a-sorted-array",
       "difficulty": "Easy",
@@ -439,15 +448,6 @@
       "titleSlug": "rotate-array",
       "difficulty": "Medium",
       "timestamp": "1743880684",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Longest Consecutive Sequence",
-      "titleSlug": "longest-consecutive-sequence",
-      "difficulty": "Medium",
-      "timestamp": "1743876711",
       "domain": "com",
       "isToday": false
     },
