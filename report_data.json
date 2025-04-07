@@ -1,5 +1,5 @@
 {
-  "timestamp": 1743999956,
+  "timestamp": 1744003305,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -462,6 +462,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Minimum Size Subarray Sum",
+      "titleSlug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "timestamp": "1744000857",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Two Sum II - Input Array Is Sorted",
       "titleSlug": "two-sum-ii-input-array-is-sorted",
       "difficulty": "Medium",
@@ -538,15 +547,6 @@
       "titleSlug": "word-pattern",
       "difficulty": "Easy",
       "timestamp": "1729980792",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "First Bad Version",
-      "titleSlug": "first-bad-version",
-      "difficulty": "Easy",
-      "timestamp": "1729375554",
       "domain": "com",
       "isToday": false
     },
