@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744147197,
+  "timestamp": 1744150813,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -546,9 +546,9 @@
       "title": "Sudoku Solver",
       "titleSlug": "sudoku-solver",
       "difficulty": "Hard",
-      "timestamp": "1743841322",
+      "timestamp": "1744149717",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "qisixian1998",
