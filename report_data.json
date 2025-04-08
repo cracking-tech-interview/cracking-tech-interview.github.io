@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744076611,
+  "timestamp": 1744081278,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -273,6 +273,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Ransom Note",
+      "titleSlug": "ransom-note",
+      "difficulty": "Easy",
+      "timestamp": "1744080278",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Is Subsequence",
       "titleSlug": "is-subsequence",
       "difficulty": "Easy",
@@ -349,15 +358,6 @@
       "titleSlug": "longest-substring-without-repeating-characters",
       "difficulty": "Medium",
       "timestamp": "1742793390",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Remove Duplicates from Sorted Array",
-      "titleSlug": "remove-duplicates-from-sorted-array",
-      "difficulty": "Easy",
-      "timestamp": "1734741874",
       "domain": "com",
       "isToday": false
     },
