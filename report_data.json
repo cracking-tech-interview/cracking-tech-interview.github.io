@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744163031,
+  "timestamp": 1744167756,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -221,7 +221,7 @@
       "username": "ping2024",
       "title": "Find Pivot Index",
       "titleSlug": "find-pivot-index",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1743832605",
       "domain": "com",
       "isToday": false
@@ -230,7 +230,7 @@
       "username": "ping2024",
       "title": "Find the Highest Altitude",
       "titleSlug": "find-the-highest-altitude",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1743831773",
       "domain": "com",
       "isToday": false
