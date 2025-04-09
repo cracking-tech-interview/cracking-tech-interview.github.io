@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744167756,
+  "timestamp": 1744172733,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "Medium",
+      "timestamp": "1744171907",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Reverse Linked List II",
       "titleSlug": "reverse-linked-list-ii",
       "difficulty": "Medium",
@@ -173,15 +182,6 @@
       "isToday": false
     },
     {
-      "username": "ablozhou",
-      "title": "Remove Element",
-      "titleSlug": "remove-element",
-      "difficulty": "Easy",
-      "timestamp": "1743904453",
-      "domain": "com",
-      "isToday": false
-    },
-    {
       "username": "kingsley_",
       "title": "Subarray Sum Equals K",
       "titleSlug": "subarray-sum-equals-k",
@@ -221,7 +221,7 @@
       "username": "ping2024",
       "title": "Find Pivot Index",
       "titleSlug": "find-pivot-index",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1743832605",
       "domain": "com",
       "isToday": false
@@ -230,7 +230,7 @@
       "username": "ping2024",
       "title": "Find the Highest Altitude",
       "titleSlug": "find-the-highest-altitude",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1743831773",
       "domain": "com",
       "isToday": false
