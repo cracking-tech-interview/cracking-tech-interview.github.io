@@ -1,6 +1,24 @@
 {
-  "timestamp": 1744172733,
+  "timestamp": 1744176042,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "House Robber",
+      "titleSlug": "house-robber",
+      "difficulty": "Medium",
+      "timestamp": "1744175174",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Operations to Make Array Values Equal to K",
+      "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+      "difficulty": "Easy",
+      "timestamp": "1744174454",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Reverse Linked List II",
@@ -70,24 +88,6 @@
       "titleSlug": "jump-game",
       "difficulty": "Medium",
       "timestamp": "1743558029",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Power of Two",
-      "titleSlug": "power-of-two",
-      "difficulty": "Easy",
-      "timestamp": "1743481285",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Ugly Number",
-      "titleSlug": "ugly-number",
-      "difficulty": "Easy",
-      "timestamp": "1743391332",
       "domain": "com",
       "isToday": false
     },
@@ -282,6 +282,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Isomorphic Strings",
+      "titleSlug": "isomorphic-strings",
+      "difficulty": "Easy",
+      "timestamp": "1744173637",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Ransom Note",
       "titleSlug": "ransom-note",
       "difficulty": "Easy",
@@ -358,15 +367,6 @@
       "titleSlug": "majority-element",
       "difficulty": "Easy",
       "timestamp": "1743314805",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Longest Substring Without Repeating Characters",
-      "titleSlug": "longest-substring-without-repeating-characters",
-      "difficulty": "Medium",
-      "timestamp": "1742793390",
       "domain": "com",
       "isToday": false
     },
@@ -462,6 +462,24 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "Medium",
+      "timestamp": "1744174114",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "timestamp": "1744173912",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Minimum Size Subarray Sum",
       "titleSlug": "minimum-size-subarray-sum",
       "difficulty": "Medium",
@@ -529,24 +547,6 @@
       "titleSlug": "remove-duplicates-from-sorted-array-ii",
       "difficulty": "Medium",
       "timestamp": "1743402422",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Ransom Note",
-      "titleSlug": "ransom-note",
-      "difficulty": "Easy",
-      "timestamp": "1743309082",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Word Pattern",
-      "titleSlug": "word-pattern",
-      "difficulty": "Easy",
-      "timestamp": "1729980792",
       "domain": "com",
       "isToday": false
     },
