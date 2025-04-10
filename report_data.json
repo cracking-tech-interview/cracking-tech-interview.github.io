@@ -1,6 +1,15 @@
 {
-  "timestamp": 1744266644,
+  "timestamp": 1744269651,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Search a 2D Matrix",
+      "titleSlug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "timestamp": "1744268257",
+      "domain": "com",
+      "isToday": false
+    },
     {
       "username": "SenHou2023",
       "title": "Repeated Substring Pattern",
@@ -8,7 +17,7 @@
       "difficulty": "Easy",
       "timestamp": "1744264909",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -83,11 +92,20 @@
       "isToday": false
     },
     {
-      "username": "SenHou2023",
-      "title": "H-Index",
-      "titleSlug": "h-index",
+      "username": "ablozhou",
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
       "difficulty": "Medium",
-      "timestamp": "1743646517",
+      "timestamp": "1744269510",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
+      "title": "Word Break",
+      "titleSlug": "word-break",
+      "difficulty": "Medium",
+      "timestamp": "1744266994",
       "domain": "com",
       "isToday": false
     },
@@ -161,33 +179,6 @@
       "difficulty": "Easy",
       "timestamp": "1743909329",
       "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Valid Palindrome",
-      "titleSlug": "valid-palindrome",
-      "difficulty": "Easy",
-      "timestamp": "1743908567",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Remove Duplicates from Sorted Array",
-      "titleSlug": "remove-duplicates-from-sorted-array",
-      "difficulty": "Easy",
-      "timestamp": "1743905593",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "kingsley_",
-      "title": "Subarray Sum Equals K",
-      "titleSlug": "subarray-sum-equals-k",
-      "difficulty": "Medium",
-      "timestamp": 1744157716,
-      "domain": "cn",
       "isToday": false
     },
     {
@@ -287,7 +278,7 @@
       "difficulty": "Easy",
       "timestamp": "1744265474",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "yangzhaocamo",
@@ -377,7 +368,7 @@
       "difficulty": "Easy",
       "timestamp": "1744261029",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -467,7 +458,7 @@
       "difficulty": "Medium",
       "timestamp": "1744260216",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
@@ -557,7 +548,7 @@
       "difficulty": "Hard",
       "timestamp": "1744216400",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qisixian1998",
