@@ -1,6 +1,15 @@
 {
-  "timestamp": 1744262446,
+  "timestamp": 1744266644,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Repeated Substring Pattern",
+      "titleSlug": "repeated-substring-pattern",
+      "difficulty": "Easy",
+      "timestamp": "1744264909",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "House Robber",
@@ -79,15 +88,6 @@
       "titleSlug": "h-index",
       "difficulty": "Medium",
       "timestamp": "1743646517",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Jump Game",
-      "titleSlug": "jump-game",
-      "difficulty": "Medium",
-      "timestamp": "1743558029",
       "domain": "com",
       "isToday": false
     },
@@ -282,6 +282,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Word Pattern",
+      "titleSlug": "word-pattern",
+      "difficulty": "Easy",
+      "timestamp": "1744265474",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Isomorphic Strings",
       "titleSlug": "isomorphic-strings",
       "difficulty": "Easy",
@@ -358,15 +367,6 @@
       "titleSlug": "best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
       "timestamp": "1743402603",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Majority Element",
-      "titleSlug": "majority-element",
-      "difficulty": "Easy",
-      "timestamp": "1743314805",
       "domain": "com",
       "isToday": false
     },
