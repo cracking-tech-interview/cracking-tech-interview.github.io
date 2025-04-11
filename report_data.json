@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744340575,
+  "timestamp": 1744345573,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "timestamp": "1744341306",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Coin Change",
       "titleSlug": "coin-change",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "two-sum-ii-input-array-is-sorted",
       "difficulty": "Medium",
       "timestamp": "1743988538",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Is Subsequence",
-      "titleSlug": "is-subsequence",
-      "difficulty": "Easy",
-      "timestamp": "1743909329",
       "domain": "com",
       "isToday": false
     },
