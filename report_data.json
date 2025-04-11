@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744356040,
+  "timestamp": 1744391908,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -180,6 +180,15 @@
       "timestamp": "1743988538",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Sliding Window Maximum",
+      "titleSlug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "timestamp": 1744357299,
+      "domain": "cn",
+      "isToday": true
     },
     {
       "username": "kingsley_",
@@ -462,6 +471,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "titleSlug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "timestamp": "1744372314",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Factorial Trailing Zeroes",
       "titleSlug": "factorial-trailing-zeroes",
       "difficulty": "Medium",
@@ -538,15 +556,6 @@
       "titleSlug": "jump-game",
       "difficulty": "Medium",
       "timestamp": "1743640126",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Best Time to Buy and Sell Stock II",
-      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
-      "difficulty": "Medium",
-      "timestamp": "1743576883",
       "domain": "com",
       "isToday": false
     },
