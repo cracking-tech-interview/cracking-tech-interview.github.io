@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744348909,
+  "timestamp": 1744353031,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -180,6 +180,15 @@
       "timestamp": "1743988538",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "timestamp": 1744351262,
+      "domain": "cn",
+      "isToday": true
     },
     {
       "username": "ping2024",
