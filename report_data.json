@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744353031,
+  "timestamp": 1744356040,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Easy",
       "timestamp": "1744347680",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -98,7 +98,7 @@
       "difficulty": "Medium",
       "timestamp": "1744341306",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -107,7 +107,7 @@
       "difficulty": "Medium",
       "timestamp": "1744269510",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -188,7 +188,7 @@
       "difficulty": "Medium",
       "timestamp": 1744351262,
       "domain": "cn",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ping2024",
@@ -287,7 +287,7 @@
       "difficulty": "Easy",
       "timestamp": "1744348984",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "yangzhaocamo",
@@ -377,7 +377,7 @@
       "difficulty": "Medium",
       "timestamp": "1744345953",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -467,7 +467,7 @@
       "difficulty": "Medium",
       "timestamp": "1744347829",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
