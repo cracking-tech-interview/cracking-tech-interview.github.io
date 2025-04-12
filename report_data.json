@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744442303,
+  "timestamp": 1744478267,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -462,6 +462,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii",
+      "difficulty": "Medium",
+      "timestamp": "1744449037",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Find Minimum in Rotated Sorted Array",
       "titleSlug": "find-minimum-in-rotated-sorted-array",
       "difficulty": "Medium",
@@ -538,15 +547,6 @@
       "titleSlug": "h-index",
       "difficulty": "Medium",
       "timestamp": "1743718863",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Jump Game",
-      "titleSlug": "jump-game",
-      "difficulty": "Medium",
-      "timestamp": "1743640126",
       "domain": "com",
       "isToday": false
     },
