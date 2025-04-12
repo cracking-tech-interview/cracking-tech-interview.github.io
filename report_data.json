@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744435159,
+  "timestamp": 1744439257,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -201,6 +201,24 @@
     },
     {
       "username": "ping2024",
+      "title": "Dota2 Senate",
+      "titleSlug": "dota2-senate",
+      "difficulty": "Medium",
+      "timestamp": "1744439207",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
+      "title": "Number of Recent Calls",
+      "titleSlug": "number-of-recent-calls",
+      "difficulty": "Easy",
+      "timestamp": "1744437775",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Determine if Two Strings Are Close",
       "titleSlug": "determine-if-two-strings-are-close",
       "difficulty": "Medium",
@@ -268,24 +286,6 @@
       "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
       "difficulty": "Medium",
       "timestamp": "1743719635",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Maximum Average Subarray I",
-      "titleSlug": "maximum-average-subarray-i",
-      "difficulty": "Easy",
-      "timestamp": "1743661630",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Max Number of K-Sum Pairs",
-      "titleSlug": "max-number-of-k-sum-pairs",
-      "difficulty": "Medium",
-      "timestamp": "1743572174",
       "domain": "com",
       "isToday": false
     },
