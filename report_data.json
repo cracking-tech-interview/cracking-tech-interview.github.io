@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744528748,
+  "timestamp": 1744564650,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -273,6 +273,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Happy Number",
+      "titleSlug": "happy-number",
+      "difficulty": "Easy",
+      "timestamp": "1744560732",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Two Sum",
       "titleSlug": "two-sum",
       "difficulty": "Easy",
@@ -349,15 +358,6 @@
       "titleSlug": "longest-common-prefix",
       "difficulty": "Easy",
       "timestamp": "1743657406",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Length of Last Word",
-      "titleSlug": "length-of-last-word",
-      "difficulty": "Easy",
-      "timestamp": "1743571081",
       "domain": "com",
       "isToday": false
     },
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "difficulty": "Medium",
+      "timestamp": "1744542347",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Jump Game II",
       "titleSlug": "jump-game-ii",
       "difficulty": "Medium",
@@ -529,15 +538,6 @@
       "titleSlug": "gas-station",
       "difficulty": "Medium",
       "timestamp": "1743765097",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "H-Index",
-      "titleSlug": "h-index",
-      "difficulty": "Medium",
-      "timestamp": "1743718863",
       "domain": "com",
       "isToday": false
     },
