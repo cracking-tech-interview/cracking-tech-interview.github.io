@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744669200,
+  "timestamp": 1744672784,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Simplify Path",
+      "titleSlug": "simplify-path",
+      "difficulty": "Medium",
+      "timestamp": "1744672213",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Interleaving String",
       "titleSlug": "interleaving-string",
       "difficulty": "Medium",
@@ -173,13 +182,13 @@
       "isToday": false
     },
     {
-      "username": "ablozhou",
-      "title": "Reverse Linked List II",
-      "titleSlug": "reverse-linked-list-ii",
+      "username": "ping2024",
+      "title": "Equal Row and Column Pairs",
+      "titleSlug": "equal-row-and-column-pairs",
       "difficulty": "Medium",
-      "timestamp": "1744085303",
+      "timestamp": "1744672245",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "ping2024",
@@ -259,15 +268,6 @@
       "titleSlug": "max-consecutive-ones-iii",
       "difficulty": "Medium",
       "timestamp": "1743723468",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
-      "difficulty": "Medium",
-      "timestamp": "1743719635",
       "domain": "com",
       "isToday": false
     },
