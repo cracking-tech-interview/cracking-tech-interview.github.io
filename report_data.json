@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744600103,
+  "timestamp": 1744604740,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,24 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Symmetric Tree",
+      "titleSlug": "symmetric-tree",
+      "difficulty": "Easy",
+      "timestamp": "1744601056",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Invert Binary Tree",
+      "titleSlug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "timestamp": "1744600363",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Spiral Matrix",
       "titleSlug": "spiral-matrix",
       "difficulty": "Medium",
@@ -430,24 +448,6 @@
       "titleSlug": "find-all-anagrams-in-a-string",
       "difficulty": "Medium",
       "timestamp": "1744434643",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Longest Palindromic Substring",
-      "titleSlug": "longest-palindromic-substring",
-      "difficulty": "Medium",
-      "timestamp": "1744432513",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Sliding Window Maximum",
-      "titleSlug": "sliding-window-maximum",
-      "difficulty": "Hard",
-      "timestamp": "1744430937",
       "domain": "com",
       "isToday": false
     },
