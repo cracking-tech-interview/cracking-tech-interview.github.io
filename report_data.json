@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744694467,
+  "timestamp": 1744698651,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "difficulty": "Medium",
+      "timestamp": "1744697966",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Simplify Path",
       "titleSlug": "simplify-path",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "word-break",
       "difficulty": "Medium",
       "timestamp": "1744266994",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "House Robber",
-      "titleSlug": "house-robber",
-      "difficulty": "Medium",
-      "timestamp": "1744171907",
       "domain": "com",
       "isToday": false
     },
