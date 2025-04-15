@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744681617,
+  "timestamp": 1744686393,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -183,6 +183,15 @@
     },
     {
       "username": "ping2024",
+      "title": "Removing Stars From a String",
+      "titleSlug": "removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "timestamp": "1744684537",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ping2024",
       "title": "Equal Row and Column Pairs",
       "titleSlug": "equal-row-and-column-pairs",
       "difficulty": "Medium",
@@ -259,15 +268,6 @@
       "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
       "difficulty": "Medium",
       "timestamp": "1743725237",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Max Consecutive Ones III",
-      "titleSlug": "max-consecutive-ones-iii",
-      "difficulty": "Medium",
-      "timestamp": "1743723468",
       "domain": "com",
       "isToday": false
     },
