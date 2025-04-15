@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744701763,
+  "timestamp": 1744737532,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,42 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Arranging Coins",
+      "titleSlug": "arranging-coins",
+      "difficulty": "Easy",
+      "timestamp": "1744715232",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Valid Perfect Square",
+      "titleSlug": "valid-perfect-square",
+      "difficulty": "Easy",
+      "timestamp": "1744714504",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Power of Four",
+      "titleSlug": "power-of-four",
+      "difficulty": "Easy",
+      "timestamp": "1744713680",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Power of Three",
+      "titleSlug": "power-of-three",
+      "difficulty": "Easy",
+      "timestamp": "1744713588",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Nim Game",
       "titleSlug": "nim-game",
       "difficulty": "Easy",
@@ -502,42 +538,6 @@
       "titleSlug": "search-a-2d-matrix",
       "difficulty": "Medium",
       "timestamp": "1744260216",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Group Anagrams",
-      "titleSlug": "group-anagrams",
-      "difficulty": "Medium",
-      "timestamp": "1744174114",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Longest Consecutive Sequence",
-      "titleSlug": "longest-consecutive-sequence",
-      "difficulty": "Medium",
-      "timestamp": "1744173912",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Minimum Size Subarray Sum",
-      "titleSlug": "minimum-size-subarray-sum",
-      "difficulty": "Medium",
-      "timestamp": "1744000857",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Two Sum II - Input Array Is Sorted",
-      "titleSlug": "two-sum-ii-input-array-is-sorted",
-      "difficulty": "Medium",
-      "timestamp": "1743914154",
       "domain": "com",
       "isToday": false
     },
