@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744767996,
+  "timestamp": 1744772760,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -186,9 +186,9 @@
       "title": "Asteroid Collision",
       "titleSlug": "asteroid-collision",
       "difficulty": "Medium",
-      "timestamp": "1744692709",
+      "timestamp": "1744771939",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "ping2024",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "difficulty": "Medium",
+      "timestamp": "1744768271",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Maximum Depth of Binary Tree",
       "titleSlug": "maximum-depth-of-binary-tree",
       "difficulty": "Easy",
@@ -439,15 +448,6 @@
       "titleSlug": "longest-repeating-character-replacement",
       "difficulty": "Medium",
       "timestamp": "1744510636",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Group Anagrams",
-      "titleSlug": "group-anagrams",
-      "difficulty": "Medium",
-      "timestamp": "1744509455",
       "domain": "com",
       "isToday": false
     },
