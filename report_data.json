@@ -1,6 +1,15 @@
 {
-  "timestamp": 1744780890,
+  "timestamp": 1744785050,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Nim Game",
+      "titleSlug": "nim-game",
+      "difficulty": "Easy",
+      "timestamp": "1744781409",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Subarray Sum Equals K",
@@ -83,13 +92,22 @@
       "isToday": false
     },
     {
-      "username": "SenHou2023",
-      "title": "Reverse Linked List II",
-      "titleSlug": "reverse-linked-list-ii",
+      "username": "ablozhou",
+      "title": "Sum Root to Leaf Numbers",
+      "titleSlug": "sum-root-to-leaf-numbers",
       "difficulty": "Medium",
-      "timestamp": "1744094666",
+      "timestamp": "1744784049",
       "domain": "com",
-      "isToday": false
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "timestamp": "1744781215",
+      "domain": "com",
+      "isToday": true
     },
     {
       "username": "ablozhou",
@@ -164,22 +182,13 @@
       "isToday": false
     },
     {
-      "username": "ablozhou",
-      "title": "Triangle",
-      "titleSlug": "triangle",
+      "username": "ping2024",
+      "title": "Delete the Middle Node of a Linked List",
+      "titleSlug": "delete-the-middle-node-of-a-linked-list",
       "difficulty": "Medium",
-      "timestamp": "1744433975",
+      "timestamp": "1744782807",
       "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Longest Increasing Subsequence",
-      "titleSlug": "longest-increasing-subsequence",
-      "difficulty": "Medium",
-      "timestamp": "1744341306",
-      "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "ping2024",
@@ -263,13 +272,13 @@
       "isToday": false
     },
     {
-      "username": "ping2024",
-      "title": "Find Pivot Index",
-      "titleSlug": "find-pivot-index",
+      "username": "yangzhaocamo",
+      "title": "Summary Ranges",
+      "titleSlug": "summary-ranges",
       "difficulty": "Easy",
-      "timestamp": "1743832605",
+      "timestamp": "1744781407",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "yangzhaocamo",
@@ -349,15 +358,6 @@
       "titleSlug": "valid-palindrome",
       "difficulty": "Easy",
       "timestamp": "1743874821",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Find the Index of the First Occurrence in a String",
-      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
-      "difficulty": "Easy",
-      "timestamp": "1743748266",
       "domain": "com",
       "isToday": false
     },
