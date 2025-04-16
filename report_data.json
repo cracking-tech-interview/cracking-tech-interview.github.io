@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744788088,
+  "timestamp": 1744823934,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "N-th Tribonacci Number",
+      "titleSlug": "n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "timestamp": "1744796961",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Arranging Coins",
       "titleSlug": "arranging-coins",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "factorial-trailing-zeroes",
       "difficulty": "Medium",
       "timestamp": "1744347829",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Search a 2D Matrix",
-      "titleSlug": "search-a-2d-matrix",
-      "difficulty": "Medium",
-      "timestamp": "1744260216",
       "domain": "com",
       "isToday": false
     },
