@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744772760,
+  "timestamp": 1744777548,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "timestamp": "1744777363",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Min Stack",
       "titleSlug": "min-stack",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "coin-change",
       "difficulty": "Medium",
       "timestamp": "1744269510",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Word Break",
-      "titleSlug": "word-break",
-      "difficulty": "Medium",
-      "timestamp": "1744266994",
       "domain": "com",
       "isToday": false
     },
