@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744777548,
+  "timestamp": 1744780890,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "Medium",
+      "timestamp": "1744780698",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Add Two Numbers",
       "titleSlug": "add-two-numbers",
       "difficulty": "Medium",
@@ -173,13 +182,13 @@
       "isToday": false
     },
     {
-      "username": "ablozhou",
-      "title": "Coin Change",
-      "titleSlug": "coin-change",
+      "username": "ping2024",
+      "title": "Decode String",
+      "titleSlug": "decode-string",
       "difficulty": "Medium",
-      "timestamp": "1744269510",
+      "timestamp": "1744780401",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "ping2024",
@@ -259,15 +268,6 @@
       "titleSlug": "find-pivot-index",
       "difficulty": "Easy",
       "timestamp": "1743832605",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ping2024",
-      "title": "Find the Highest Altitude",
-      "titleSlug": "find-the-highest-altitude",
-      "difficulty": "Easy",
-      "timestamp": "1743831773",
       "domain": "com",
       "isToday": false
     },
