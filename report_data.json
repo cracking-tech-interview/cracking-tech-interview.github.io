@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744921391,
+  "timestamp": 1744924786,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -273,6 +273,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Linked List Cycle",
+      "titleSlug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "timestamp": "1744922942",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Valid Parentheses",
       "titleSlug": "valid-parentheses",
       "difficulty": "Easy",
@@ -349,15 +358,6 @@
       "titleSlug": "ransom-note",
       "difficulty": "Easy",
       "timestamp": "1744080278",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Is Subsequence",
-      "titleSlug": "is-subsequence",
-      "difficulty": "Easy",
-      "timestamp": "1743995094",
       "domain": "com",
       "isToday": false
     },
