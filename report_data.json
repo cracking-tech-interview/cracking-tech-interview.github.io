@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744874540,
+  "timestamp": 1744910371,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Check If It Is a Straight Line",
+      "titleSlug": "check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "timestamp": "1744894934",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "N-th Tribonacci Number",
       "titleSlug": "n-th-tribonacci-number",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "find-minimum-in-rotated-sorted-array",
       "difficulty": "Medium",
       "timestamp": "1744372314",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Factorial Trailing Zeroes",
-      "titleSlug": "factorial-trailing-zeroes",
-      "difficulty": "Medium",
-      "timestamp": "1744347829",
       "domain": "com",
       "isToday": false
     },
