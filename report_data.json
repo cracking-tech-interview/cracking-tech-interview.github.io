@@ -1,6 +1,15 @@
 {
-  "timestamp": 1744953658,
+  "timestamp": 1744957822,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "First Bad Version",
+      "titleSlug": "first-bad-version",
+      "difficulty": "Easy",
+      "timestamp": "1744957876",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Sum Root to Leaf Numbers",
@@ -79,15 +88,6 @@
       "titleSlug": "search-a-2d-matrix",
       "difficulty": "Medium",
       "timestamp": "1744268257",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Repeated Substring Pattern",
-      "titleSlug": "repeated-substring-pattern",
-      "difficulty": "Easy",
-      "timestamp": "1744264909",
       "domain": "com",
       "isToday": false
     },
