@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744945321,
+  "timestamp": 1744950311,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,24 @@
     },
     {
       "username": "qq2448127758",
+      "title": "First Bad Version",
+      "titleSlug": "first-bad-version",
+      "difficulty": "Easy",
+      "timestamp": "1744947882",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "timestamp": "1744947556",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Set Matrix Zeroes",
       "titleSlug": "set-matrix-zeroes",
       "difficulty": "Medium",
@@ -430,24 +448,6 @@
       "titleSlug": "invert-binary-tree",
       "difficulty": "Easy",
       "timestamp": "1744600363",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Spiral Matrix",
-      "titleSlug": "spiral-matrix",
-      "difficulty": "Medium",
-      "timestamp": "1744522077",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Top K Frequent Elements",
-      "titleSlug": "top-k-frequent-elements",
-      "difficulty": "Medium",
-      "timestamp": "1744517686",
       "domain": "com",
       "isToday": false
     },
