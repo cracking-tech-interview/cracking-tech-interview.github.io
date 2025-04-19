@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745047089,
+  "timestamp": 1745083041,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Number of Days Between Two Dates",
+      "titleSlug": "number-of-days-between-two-dates",
+      "difficulty": "Easy",
+      "timestamp": "1745054081",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Water Bottles",
       "titleSlug": "water-bottles",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "power-of-three",
       "difficulty": "Easy",
       "timestamp": "1744713588",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Nim Game",
-      "titleSlug": "nim-game",
-      "difficulty": "Easy",
-      "timestamp": "1744699215",
       "domain": "com",
       "isToday": false
     },
