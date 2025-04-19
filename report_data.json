@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745044085,
+  "timestamp": 1745047089,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Easy",
       "timestamp": "1745042753",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -98,7 +98,7 @@
       "difficulty": "Medium",
       "timestamp": "1745042994",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -107,7 +107,7 @@
       "difficulty": "Medium",
       "timestamp": "1745039979",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -116,7 +116,7 @@
       "difficulty": "Hard",
       "timestamp": "1745025118",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -368,7 +368,7 @@
       "difficulty": "Medium",
       "timestamp": "1745043882",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -377,7 +377,7 @@
       "difficulty": "Medium",
       "timestamp": "1745042348",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -386,7 +386,7 @@
       "difficulty": "Medium",
       "timestamp": "1745032962",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -395,7 +395,7 @@
       "difficulty": "Medium",
       "timestamp": "1745030852",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -458,7 +458,7 @@
       "difficulty": "Easy",
       "timestamp": "1744961801",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
@@ -467,7 +467,7 @@
       "difficulty": "Easy",
       "timestamp": "1744961346",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
@@ -476,7 +476,7 @@
       "difficulty": "Easy",
       "timestamp": "1744960994",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
