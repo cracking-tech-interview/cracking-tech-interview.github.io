@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745133595,
+  "timestamp": 1745169520,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Find N Unique Integers Sum up to Zero",
+      "titleSlug": "find-n-unique-integers-sum-up-to-zero",
+      "difficulty": "Easy",
+      "timestamp": "1745139318",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Number of Days Between Two Dates",
       "titleSlug": "number-of-days-between-two-dates",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "power-of-four",
       "difficulty": "Easy",
       "timestamp": "1744713680",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Power of Three",
-      "titleSlug": "power-of-three",
-      "difficulty": "Easy",
-      "timestamp": "1744713588",
       "domain": "com",
       "isToday": false
     },
