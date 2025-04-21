@@ -1,6 +1,15 @@
 {
-  "timestamp": 1745200209,
+  "timestamp": 1745205073,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Count and Say",
+      "titleSlug": "count-and-say",
+      "difficulty": "Medium",
+      "timestamp": "1745204140",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Check If It Is a Straight Line",
@@ -83,13 +92,13 @@
       "isToday": false
     },
     {
-      "username": "SenHou2023",
-      "title": "  Count Symmetric Integers",
-      "titleSlug": "count-symmetric-integers",
-      "difficulty": "Easy",
-      "timestamp": "1744347680",
+      "username": "ablozhou",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "timestamp": "1745202964",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "ablozhou",
@@ -169,15 +178,6 @@
       "titleSlug": "min-stack",
       "difficulty": "Medium",
       "timestamp": "1744697966",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Simplify Path",
-      "titleSlug": "simplify-path",
-      "difficulty": "Medium",
-      "timestamp": "1744676116",
       "domain": "com",
       "isToday": false
     },
