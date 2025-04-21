@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745212932,
+  "timestamp": 1745217076,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -282,6 +282,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "timestamp": "1745216557",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Linked List Cycle",
       "titleSlug": "linked-list-cycle",
       "difficulty": "Easy",
@@ -358,15 +367,6 @@
       "titleSlug": "isomorphic-strings",
       "difficulty": "Easy",
       "timestamp": "1744173637",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Ransom Note",
-      "titleSlug": "ransom-note",
-      "difficulty": "Easy",
-      "timestamp": "1744080278",
       "domain": "com",
       "isToday": false
     },
