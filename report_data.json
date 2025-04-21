@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745260142,
+  "timestamp": 1745263084,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "Medium",
+      "timestamp": "1745261234",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "N-Queens II",
       "titleSlug": "n-queens-ii",
       "difficulty": "Hard",
@@ -169,15 +178,6 @@
       "titleSlug": "maximum-depth-of-binary-tree",
       "difficulty": "Easy",
       "timestamp": "1744781215",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "LRU Cache",
-      "titleSlug": "lru-cache",
-      "difficulty": "Medium",
-      "timestamp": "1744780698",
       "domain": "com",
       "isToday": false
     },
