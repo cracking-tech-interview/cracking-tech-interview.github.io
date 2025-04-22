@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745291077,
+  "timestamp": 1745295934,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Binary Tree Right Side View",
+      "titleSlug": "binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "timestamp": "1745291277",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Generate Parentheses",
       "titleSlug": "generate-parentheses",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "sum-root-to-leaf-numbers",
       "difficulty": "Medium",
       "timestamp": "1744784049",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Maximum Depth of Binary Tree",
-      "titleSlug": "maximum-depth-of-binary-tree",
-      "difficulty": "Easy",
-      "timestamp": "1744781215",
       "domain": "com",
       "isToday": false
     },
