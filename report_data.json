@@ -1,6 +1,15 @@
 {
-  "timestamp": 1745342347,
+  "timestamp": 1745346593,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "timestamp": "1745345907",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Count and Say",
@@ -79,15 +88,6 @@
       "titleSlug": "longest-palindromic-substring",
       "difficulty": "Medium",
       "timestamp": "1744518761",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Subarray Sum Equals K",
-      "titleSlug": "subarray-sum-equals-k",
-      "difficulty": "Medium",
-      "timestamp": "1744440713",
       "domain": "com",
       "isToday": false
     },
