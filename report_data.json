@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745303449,
+  "timestamp": 1745306487,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -98,7 +98,7 @@
       "difficulty": "Medium",
       "timestamp": "1745291277",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -107,7 +107,7 @@
       "difficulty": "Medium",
       "timestamp": "1745261234",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -179,15 +179,6 @@
       "difficulty": "Medium",
       "timestamp": "1744784049",
       "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "kingsley_",
-      "title": "Maximum Subarray",
-      "titleSlug": "maximum-subarray",
-      "difficulty": "Medium",
-      "timestamp": 1745212556,
-      "domain": "cn",
       "isToday": false
     },
     {
@@ -377,7 +368,7 @@
       "difficulty": "Medium",
       "timestamp": "1745298111",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -386,7 +377,7 @@
       "difficulty": "Medium",
       "timestamp": "1745288110",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -395,7 +386,7 @@
       "difficulty": "Medium",
       "timestamp": "1745278282",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -404,7 +395,7 @@
       "difficulty": "Medium",
       "timestamp": "1745276257",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -413,7 +404,7 @@
       "difficulty": "Medium",
       "timestamp": "1745275778",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -422,7 +413,7 @@
       "difficulty": "Medium",
       "timestamp": "1745274573",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -431,7 +422,7 @@
       "difficulty": "Medium",
       "timestamp": "1745274001",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -440,7 +431,7 @@
       "difficulty": "Medium",
       "timestamp": "1745273512",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -449,7 +440,7 @@
       "difficulty": "Medium",
       "timestamp": "1745271647",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -467,7 +458,7 @@
       "difficulty": "Easy",
       "timestamp": "1745272258",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
