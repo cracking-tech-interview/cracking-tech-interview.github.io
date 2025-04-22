@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745295934,
+  "timestamp": 1745299292,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -372,6 +372,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "timestamp": "1745298111",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "LRU Cache",
       "titleSlug": "lru-cache",
       "difficulty": "Medium",
@@ -448,15 +457,6 @@
       "titleSlug": "minimum-height-trees",
       "difficulty": "Medium",
       "timestamp": "1745194961",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Word Search",
-      "titleSlug": "word-search",
-      "difficulty": "Medium",
-      "timestamp": "1745118969",
       "domain": "com",
       "isToday": false
     },
