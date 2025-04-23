@@ -1,6 +1,15 @@
 {
-  "timestamp": 1745446857,
+  "timestamp": 1745450428,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Search Insert Position",
+      "titleSlug": "search-insert-position",
+      "difficulty": "Easy",
+      "timestamp": "1745448918",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Find First and Last Position of Element in Sorted Array",
@@ -79,15 +88,6 @@
       "titleSlug": "maximum-depth-of-binary-tree",
       "difficulty": "Easy",
       "timestamp": "1744692013",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Longest Palindromic Substring",
-      "titleSlug": "longest-palindromic-substring",
-      "difficulty": "Medium",
-      "timestamp": "1744518761",
       "domain": "com",
       "isToday": false
     },
