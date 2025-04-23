@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745393157,
+  "timestamp": 1745428778,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Summary Ranges",
+      "titleSlug": "summary-ranges",
+      "difficulty": "Easy",
+      "timestamp": "1745393264",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Binary Tree Right Side View",
       "titleSlug": "binary-tree-right-side-view",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "binary-tree-maximum-path-sum",
       "difficulty": "Hard",
       "timestamp": "1744867296",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Sum Root to Leaf Numbers",
-      "titleSlug": "sum-root-to-leaf-numbers",
-      "difficulty": "Medium",
-      "timestamp": "1744784049",
       "domain": "com",
       "isToday": false
     },
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Convert the Temperature",
+      "titleSlug": "convert-the-temperature",
+      "difficulty": "Easy",
+      "timestamp": "1745409273",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Sum of All Odd Length Subarrays",
       "titleSlug": "sum-of-all-odd-length-subarrays",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "n-th-tribonacci-number",
       "difficulty": "Easy",
       "timestamp": "1744796961",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Arranging Coins",
-      "titleSlug": "arranging-coins",
-      "difficulty": "Easy",
-      "timestamp": "1744715232",
       "domain": "com",
       "isToday": false
     },
