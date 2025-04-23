@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745385698,
+  "timestamp": 1745389854,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -273,6 +273,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "timestamp": "1745388451",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Merge Two Sorted Lists",
       "titleSlug": "merge-two-sorted-lists",
       "difficulty": "Easy",
@@ -349,15 +358,6 @@
       "titleSlug": "word-pattern",
       "difficulty": "Easy",
       "timestamp": "1744265474",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Isomorphic Strings",
-      "titleSlug": "isomorphic-strings",
-      "difficulty": "Easy",
-      "timestamp": "1744173637",
       "domain": "com",
       "isToday": false
     },
