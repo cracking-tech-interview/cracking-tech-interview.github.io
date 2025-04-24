@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745459192,
+  "timestamp": 1745464040,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,10 +363,19 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "timestamp": "1745460636",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Copy List with Random Pointer",
       "titleSlug": "copy-list-with-random-pointer",
       "difficulty": "Medium",
-      "timestamp": "1745459175",
+      "timestamp": "1745459983",
       "domain": "com",
       "isToday": true
     },
@@ -439,15 +448,6 @@
       "titleSlug": "rotting-oranges",
       "difficulty": "Medium",
       "timestamp": "1745370269",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Longest Substring Without Repeating Characters",
-      "titleSlug": "longest-substring-without-repeating-characters",
-      "difficulty": "Medium",
-      "timestamp": "1745369290",
       "domain": "com",
       "isToday": false
     },
