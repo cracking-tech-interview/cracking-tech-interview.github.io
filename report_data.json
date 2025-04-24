@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745479329,
+  "timestamp": 1745515149,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,24 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Largest Odd Number in String",
+      "titleSlug": "largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "timestamp": "1745496457",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Add Two Integers",
+      "titleSlug": "add-two-integers",
+      "difficulty": "Easy",
+      "timestamp": "1745495390",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Convert the Temperature",
       "titleSlug": "convert-the-temperature",
       "difficulty": "Easy",
@@ -520,24 +538,6 @@
       "titleSlug": "day-of-the-week",
       "difficulty": "Easy",
       "timestamp": "1744960994",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Check If It Is a Straight Line",
-      "titleSlug": "check-if-it-is-a-straight-line",
-      "difficulty": "Easy",
-      "timestamp": "1744894934",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "N-th Tribonacci Number",
-      "titleSlug": "n-th-tribonacci-number",
-      "difficulty": "Easy",
-      "timestamp": "1744796961",
       "domain": "com",
       "isToday": false
     },
