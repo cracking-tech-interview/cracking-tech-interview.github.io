@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745472091,
+  "timestamp": 1745476281,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -273,6 +273,15 @@
     },
     {
       "username": "yangzhaocamo",
+      "title": "Same Tree",
+      "titleSlug": "same-tree",
+      "difficulty": "Easy",
+      "timestamp": "1745474630",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "yangzhaocamo",
       "title": "Maximum Depth of Binary Tree",
       "titleSlug": "maximum-depth-of-binary-tree",
       "difficulty": "Easy",
@@ -349,15 +358,6 @@
       "titleSlug": "valid-anagram",
       "difficulty": "Easy",
       "timestamp": "1744348984",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yangzhaocamo",
-      "title": "Word Pattern",
-      "titleSlug": "word-pattern",
-      "difficulty": "Easy",
-      "timestamp": "1744265474",
       "domain": "com",
       "isToday": false
     },
