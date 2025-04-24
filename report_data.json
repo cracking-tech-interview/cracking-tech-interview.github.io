@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745450428,
+  "timestamp": 1745459192,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,42 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Copy List with Random Pointer",
+      "titleSlug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "timestamp": "1745459175",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "timestamp": "1745457620",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "Medium",
+      "timestamp": "1745455948",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "Medium",
+      "timestamp": "1745451795",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Koko Eating Bananas",
       "titleSlug": "koko-eating-bananas",
       "difficulty": "Medium",
@@ -412,42 +448,6 @@
       "titleSlug": "longest-substring-without-repeating-characters",
       "difficulty": "Medium",
       "timestamp": "1745369290",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Add Two Numbers",
-      "titleSlug": "add-two-numbers",
-      "difficulty": "Medium",
-      "timestamp": "1745298111",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "LRU Cache",
-      "titleSlug": "lru-cache",
-      "difficulty": "Medium",
-      "timestamp": "1745288110",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Course Schedule",
-      "titleSlug": "course-schedule",
-      "difficulty": "Medium",
-      "timestamp": "1745278282",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "House Robber",
-      "titleSlug": "house-robber",
-      "difficulty": "Medium",
-      "timestamp": "1745276257",
       "domain": "com",
       "isToday": false
     },
