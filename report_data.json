@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745545625,
+  "timestamp": 1745550444,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,33 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "timestamp": "1745550083",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "timestamp": "1745549397",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
+      "title": "Minimum Operations to Make the Array Alternating",
+      "titleSlug": "minimum-operations-to-make-the-array-alternating",
+      "difficulty": "Medium",
+      "timestamp": "1745548989",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Lowest Common Ancestor of a Binary Tree",
       "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
       "difficulty": "Medium",
@@ -421,33 +448,6 @@
       "titleSlug": "course-schedule-ii",
       "difficulty": "Medium",
       "timestamp": "1745377117",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Maximum Subarray",
-      "titleSlug": "maximum-subarray",
-      "difficulty": "Medium",
-      "timestamp": "1745376170",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "3Sum",
-      "titleSlug": "3sum",
-      "difficulty": "Medium",
-      "timestamp": "1745375425",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Rotting Oranges",
-      "titleSlug": "rotting-oranges",
-      "difficulty": "Medium",
-      "timestamp": "1745370269",
       "domain": "com",
       "isToday": false
     },
