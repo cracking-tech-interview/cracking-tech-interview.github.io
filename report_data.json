@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745558465,
+  "timestamp": 1745562650,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -464,7 +464,7 @@
       "username": "geminiuchiha",
       "title": "Add Two Integers",
       "titleSlug": "add-two-integers",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1745495390",
       "domain": "com",
       "isToday": true
