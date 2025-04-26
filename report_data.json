@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745636456,
+  "timestamp": 1745641511,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "timestamp": "1745640301",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "LRU Cache",
       "titleSlug": "lru-cache",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "product-of-array-except-self",
       "difficulty": "Medium",
       "timestamp": "1745457620",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Group Anagrams",
-      "titleSlug": "group-anagrams",
-      "difficulty": "Medium",
-      "timestamp": "1745455948",
       "domain": "com",
       "isToday": false
     },
