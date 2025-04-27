@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745738314,
+  "timestamp": 1745774298,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,24 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Pass the Pillow",
+      "titleSlug": "pass-the-pillow",
+      "difficulty": "Easy",
+      "timestamp": "1745751472",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
+      "title": "Sum Multiples",
+      "titleSlug": "sum-multiples",
+      "difficulty": "Easy",
+      "timestamp": "1745751154",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Smallest Even Multiple",
       "titleSlug": "smallest-even-multiple",
       "difficulty": "Easy",
@@ -520,24 +538,6 @@
       "titleSlug": "number-of-days-between-two-dates",
       "difficulty": "Easy",
       "timestamp": "1745054081",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Water Bottles",
-      "titleSlug": "water-bottles",
-      "difficulty": "Easy",
-      "timestamp": "1744961801",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Maximum 69 Number",
-      "titleSlug": "maximum-69-number",
-      "difficulty": "Easy",
-      "timestamp": "1744961346",
       "domain": "com",
       "isToday": false
     },
