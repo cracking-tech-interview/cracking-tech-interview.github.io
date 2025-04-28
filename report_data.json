@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745814408,
+  "timestamp": 1745818189,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Exclusive Time of Functions",
+      "titleSlug": "exclusive-time-of-functions",
+      "difficulty": "Medium",
+      "timestamp": "1745814700",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Edit Distance",
       "titleSlug": "edit-distance",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "longest-increasing-subsequence",
       "difficulty": "Medium",
       "timestamp": "1745549397",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Minimum Operations to Make the Array Alternating",
-      "titleSlug": "minimum-operations-to-make-the-array-alternating",
-      "difficulty": "Medium",
-      "timestamp": "1745548989",
       "domain": "com",
       "isToday": false
     },
