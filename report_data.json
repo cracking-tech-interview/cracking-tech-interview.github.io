@@ -1,6 +1,15 @@
 {
-  "timestamp": 1745904089,
+  "timestamp": 1745908299,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find Smallest Letter Greater Than Target",
+      "titleSlug": "find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "timestamp": "1745906115",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Binary Search",
@@ -79,15 +88,6 @@
       "titleSlug": "nim-game",
       "difficulty": "Easy",
       "timestamp": "1744781409",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Subarray Sum Equals K",
-      "titleSlug": "subarray-sum-equals-k",
-      "difficulty": "Medium",
-      "timestamp": "1744693257",
       "domain": "com",
       "isToday": false
     },
