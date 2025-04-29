@@ -1,6 +1,15 @@
 {
-  "timestamp": 1745900712,
+  "timestamp": 1745904089,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "timestamp": "1745903630",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Search Insert Position",
@@ -79,15 +88,6 @@
       "titleSlug": "subarray-sum-equals-k",
       "difficulty": "Medium",
       "timestamp": "1744693257",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Depth of Binary Tree",
-      "titleSlug": "maximum-depth-of-binary-tree",
-      "difficulty": "Easy",
-      "timestamp": "1744692013",
       "domain": "com",
       "isToday": false
     },
