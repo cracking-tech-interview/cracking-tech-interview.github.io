@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745994692,
+  "timestamp": 1745997668,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Easy",
       "timestamp": "1745967685",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Word Pattern",
+      "titleSlug": "word-pattern",
+      "difficulty": "Easy",
+      "timestamp": "1745995613",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ablozhou",
       "title": "Isomorphic Strings",
       "titleSlug": "isomorphic-strings",
       "difficulty": "Easy",
@@ -169,15 +178,6 @@
       "titleSlug": "binary-tree-right-side-view",
       "difficulty": "Medium",
       "timestamp": "1745291277",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Generate Parentheses",
-      "titleSlug": "generate-parentheses",
-      "difficulty": "Medium",
-      "timestamp": "1745261234",
       "domain": "com",
       "isToday": false
     },
@@ -368,7 +368,7 @@
       "difficulty": "Medium",
       "timestamp": "1745991876",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -458,7 +458,7 @@
       "difficulty": "Easy",
       "timestamp": "1745992474",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
