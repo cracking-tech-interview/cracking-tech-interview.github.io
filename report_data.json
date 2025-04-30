@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745990495,
+  "timestamp": 1745994692,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "K Closest Points to Origin",
+      "titleSlug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "timestamp": "1745991876",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Longest Consecutive Sequence",
       "titleSlug": "longest-consecutive-sequence",
       "difficulty": "Medium",
@@ -443,13 +452,13 @@
       "isToday": false
     },
     {
-      "username": "qq2448127758",
-      "title": "Permutations",
-      "titleSlug": "permutations",
-      "difficulty": "Medium",
-      "timestamp": "1745550083",
+      "username": "geminiuchiha",
+      "title": "Find Closest Person",
+      "titleSlug": "find-closest-person",
+      "difficulty": "Easy",
+      "timestamp": "1745992474",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "geminiuchiha",
@@ -529,15 +538,6 @@
       "titleSlug": "find-n-unique-integers-sum-up-to-zero",
       "difficulty": "Easy",
       "timestamp": "1745139318",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Number of Days Between Two Dates",
-      "titleSlug": "number-of-days-between-two-dates",
-      "difficulty": "Easy",
-      "timestamp": "1745054081",
       "domain": "com",
       "isToday": false
     },
