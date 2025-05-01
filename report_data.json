@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746084115,
+  "timestamp": 1746119948,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "timestamp": "1746104218",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Find Closest Person",
       "titleSlug": "find-closest-person",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "find-numbers-with-even-number-of-digits",
       "difficulty": "Easy",
       "timestamp": "1745272258",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Find N Unique Integers Sum up to Zero",
-      "titleSlug": "find-n-unique-integers-sum-up-to-zero",
-      "difficulty": "Easy",
-      "timestamp": "1745139318",
       "domain": "com",
       "isToday": false
     },
