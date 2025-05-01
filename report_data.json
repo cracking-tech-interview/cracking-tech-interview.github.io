@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746069554,
+  "timestamp": 1746073642,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Word Search",
+      "titleSlug": "word-search",
+      "difficulty": "Medium",
+      "timestamp": "1746069842",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "K Closest Points to Origin",
       "titleSlug": "k-closest-points-to-origin",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "reverse-integer",
       "difficulty": "Medium",
       "timestamp": "1745553109",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Best Time to Buy and Sell Stock II",
-      "titleSlug": "best-time-to-buy-and-sell-stock-ii",
-      "difficulty": "Medium",
-      "timestamp": "1745550743",
       "domain": "com",
       "isToday": false
     },
