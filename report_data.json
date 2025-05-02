@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746167460,
+  "timestamp": 1746170484,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "timestamp": "1746169219",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Word Pattern",
       "titleSlug": "word-pattern",
       "difficulty": "Easy",
@@ -169,15 +178,6 @@
       "titleSlug": "summary-ranges",
       "difficulty": "Easy",
       "timestamp": "1745393264",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Binary Tree Right Side View",
-      "titleSlug": "binary-tree-right-side-view",
-      "difficulty": "Medium",
-      "timestamp": "1745291277",
       "domain": "com",
       "isToday": false
     },
@@ -368,7 +368,7 @@
       "difficulty": "Easy",
       "timestamp": "1746161317",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -458,7 +458,7 @@
       "difficulty": "Easy",
       "timestamp": "1746104218",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
@@ -548,7 +548,7 @@
       "difficulty": "Hard",
       "timestamp": "1746152643",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qisixian1998",
