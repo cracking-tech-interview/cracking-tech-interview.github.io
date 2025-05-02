@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746170484,
+  "timestamp": 1746206348,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -543,6 +543,24 @@
     },
     {
       "username": "qisixian1998",
+      "title": "N-Queens II",
+      "titleSlug": "n-queens-ii",
+      "difficulty": "Hard",
+      "timestamp": "1746171305",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
+      "title": "N-Queens",
+      "titleSlug": "n-queens",
+      "difficulty": "Hard",
+      "timestamp": "1746171005",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
       "title": "Sudoku Solver",
       "titleSlug": "sudoku-solver",
       "difficulty": "Hard",
@@ -610,24 +628,6 @@
       "titleSlug": "satisfiability-of-equality-equations",
       "difficulty": "Medium",
       "timestamp": "1741121517",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Redundant Connection",
-      "titleSlug": "redundant-connection",
-      "difficulty": "Medium",
-      "timestamp": "1741118420",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Surrounded Regions",
-      "titleSlug": "surrounded-regions",
-      "difficulty": "Medium",
-      "timestamp": "1740994248",
       "domain": "com",
       "isToday": false
     }
