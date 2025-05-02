@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746213447,
+  "timestamp": 1746217441,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -410,7 +410,7 @@
       "username": "qq2448127758",
       "title": "Edit Distance",
       "titleSlug": "edit-distance",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1745811607",
       "domain": "com",
       "isToday": false
