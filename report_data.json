@@ -1,6 +1,15 @@
 {
-  "timestamp": 1746224452,
+  "timestamp": 1746227990,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find the Distance Value Between Two Arrays",
+      "titleSlug": "find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "timestamp": "1746224885",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Minimum Size Subarray Sum",
@@ -79,15 +88,6 @@
       "titleSlug": "check-if-it-is-a-straight-line",
       "difficulty": "Easy",
       "timestamp": "1745042753",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "First Bad Version",
-      "titleSlug": "first-bad-version",
-      "difficulty": "Easy",
-      "timestamp": "1744957876",
       "domain": "com",
       "isToday": false
     },
