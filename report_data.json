@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746249675,
+  "timestamp": 1746253715,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "timestamp": "1746251653",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Same Tree",
       "titleSlug": "same-tree",
       "difficulty": "Easy",
@@ -443,13 +452,13 @@
       "isToday": false
     },
     {
-      "username": "qq2448127758",
-      "title": "LRU Cache",
-      "titleSlug": "lru-cache",
-      "difficulty": "Medium",
-      "timestamp": "1745558171",
+      "username": "geminiuchiha",
+      "title": "Find Greatest Common Divisor of Array",
+      "titleSlug": "find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "timestamp": "1746251015",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "geminiuchiha",
@@ -529,15 +538,6 @@
       "titleSlug": "sum-of-all-odd-length-subarrays",
       "difficulty": "Easy",
       "timestamp": "1745381363",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Find Numbers with Even Number of Digits",
-      "titleSlug": "find-numbers-with-even-number-of-digits",
-      "difficulty": "Easy",
-      "timestamp": "1745272258",
       "domain": "com",
       "isToday": false
     },
