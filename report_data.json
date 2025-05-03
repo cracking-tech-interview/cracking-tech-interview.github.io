@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746253715,
+  "timestamp": 1746256747,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Easy",
       "timestamp": "1746224885",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -93,12 +93,21 @@
     },
     {
       "username": "ablozhou",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "Medium",
+      "timestamp": "1746255553",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "ablozhou",
       "title": "Longest Consecutive Sequence",
       "titleSlug": "longest-consecutive-sequence",
       "difficulty": "Medium",
       "timestamp": "1746169219",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "ablozhou",
@@ -169,15 +178,6 @@
       "titleSlug": "minimum-absolute-difference-in-bst",
       "difficulty": "Easy",
       "timestamp": "1745555696",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Summary Ranges",
-      "titleSlug": "summary-ranges",
-      "difficulty": "Easy",
-      "timestamp": "1745393264",
       "domain": "com",
       "isToday": false
     },
@@ -368,7 +368,7 @@
       "difficulty": "Medium",
       "timestamp": "1746251653",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
@@ -458,7 +458,7 @@
       "difficulty": "Easy",
       "timestamp": "1746251015",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "geminiuchiha",
@@ -548,7 +548,7 @@
       "difficulty": "Hard",
       "timestamp": "1746171305",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qisixian1998",
@@ -557,7 +557,7 @@
       "difficulty": "Hard",
       "timestamp": "1746171005",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qisixian1998",
