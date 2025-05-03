@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746256747,
+  "timestamp": 1746292632,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -453,6 +453,15 @@
     },
     {
       "username": "geminiuchiha",
+      "title": "Count of Matches in Tournament",
+      "titleSlug": "count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "timestamp": "1746278289",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "geminiuchiha",
       "title": "Find Greatest Common Divisor of Array",
       "titleSlug": "find-greatest-common-divisor-of-array",
       "difficulty": "Easy",
@@ -529,15 +538,6 @@
       "titleSlug": "convert-the-temperature",
       "difficulty": "Easy",
       "timestamp": "1745409273",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "geminiuchiha",
-      "title": "Sum of All Odd Length Subarrays",
-      "titleSlug": "sum-of-all-odd-length-subarrays",
-      "difficulty": "Easy",
-      "timestamp": "1745381363",
       "domain": "com",
       "isToday": false
     },
