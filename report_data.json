@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746299767,
+  "timestamp": 1746303719,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -96,9 +96,9 @@
       "title": "Merge Intervals",
       "titleSlug": "merge-intervals",
       "difficulty": "Medium",
-      "timestamp": "1746255553",
+      "timestamp": "1746302662",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "ablozhou",
