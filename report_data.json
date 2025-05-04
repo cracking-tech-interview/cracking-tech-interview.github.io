@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746314360,
+  "timestamp": 1746323807,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -122,7 +122,7 @@
       "username": "ablozhou",
       "title": "Isomorphic Strings",
       "titleSlug": "isomorphic-strings",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1745825046",
       "domain": "com",
       "isToday": false
