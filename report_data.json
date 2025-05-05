@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746469638,
+  "timestamp": 1746472522,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -194,7 +194,7 @@
       "username": "ping2024",
       "title": "Odd Even Linked List",
       "titleSlug": "odd-even-linked-list",
-      "difficulty": "Medium",
+      "difficulty": "Unknown",
       "timestamp": "1744866762",
       "domain": "com",
       "isToday": false
