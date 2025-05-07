@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746599509,
+  "timestamp": 1746602510,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Snakes and Ladders",
+      "titleSlug": "snakes-and-ladders",
+      "difficulty": "Medium",
+      "timestamp": "1746601541",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Merge Intervals",
       "titleSlug": "merge-intervals",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "kth-smallest-element-in-a-bst",
       "difficulty": "Medium",
       "timestamp": "1745556467",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Minimum Absolute Difference in BST",
-      "titleSlug": "minimum-absolute-difference-in-bst",
-      "difficulty": "Easy",
-      "timestamp": "1745555696",
       "domain": "com",
       "isToday": false
     },
@@ -368,7 +368,7 @@
       "difficulty": "Medium",
       "timestamp": "1746591989",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
