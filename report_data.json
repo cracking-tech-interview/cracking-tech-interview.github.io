@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746772318,
+  "timestamp": 1746775302,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Implement Trie (Prefix Tree)",
+      "titleSlug": "implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "timestamp": "1746774315",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Snakes and Ladders",
       "titleSlug": "snakes-and-ladders",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "validate-binary-search-tree",
       "difficulty": "Medium",
       "timestamp": "1745557522",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Kth Smallest Element in a BST",
-      "titleSlug": "kth-smallest-element-in-a-bst",
-      "difficulty": "Medium",
-      "timestamp": "1745556467",
       "domain": "com",
       "isToday": false
     },
