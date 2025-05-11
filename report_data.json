@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746940821,
+  "timestamp": 1746944956,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -149,7 +149,7 @@
       "username": "ablozhou",
       "title": "Ransom Note",
       "titleSlug": "ransom-note",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1745737145",
       "domain": "com",
       "isToday": false
