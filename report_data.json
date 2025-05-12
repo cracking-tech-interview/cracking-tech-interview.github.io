@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747027356,
+  "timestamp": 1747031596,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "Medium",
+      "timestamp": "1747028362",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Edit Distance",
       "titleSlug": "edit-distance",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "word-search",
       "difficulty": "Medium",
       "timestamp": "1746069842",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "K Closest Points to Origin",
-      "titleSlug": "k-closest-points-to-origin",
-      "difficulty": "Medium",
-      "timestamp": "1745991876",
       "domain": "com",
       "isToday": false
     },
