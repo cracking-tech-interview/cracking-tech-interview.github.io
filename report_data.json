@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747024044,
+  "timestamp": 1747027356,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "ablozhou",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "titleSlug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "timestamp": "1747024168",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "ablozhou",
       "title": "Implement Trie (Prefix Tree)",
       "titleSlug": "implement-trie-prefix-tree",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "number-of-islands",
       "difficulty": "Medium",
       "timestamp": "1745643331",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "ablozhou",
-      "title": "Validate Binary Search Tree",
-      "titleSlug": "validate-binary-search-tree",
-      "difficulty": "Medium",
-      "timestamp": "1745557522",
       "domain": "com",
       "isToday": false
     },
