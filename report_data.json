@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747110448,
+  "timestamp": 1747113713,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Unique Paths",
+      "titleSlug": "unique-paths",
+      "difficulty": "Medium",
+      "timestamp": "1747112740",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "LRU Cache",
       "titleSlug": "lru-cache",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "same-tree",
       "difficulty": "Easy",
       "timestamp": "1746161317",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Word Search",
-      "titleSlug": "word-search",
-      "difficulty": "Medium",
-      "timestamp": "1746069842",
       "domain": "com",
       "isToday": false
     },
