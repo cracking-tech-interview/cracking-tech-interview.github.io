@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747506496,
+  "timestamp": 1747509513,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -543,6 +543,15 @@
     },
     {
       "username": "qisixian1998",
+      "title": "Minesweeper",
+      "titleSlug": "minesweeper",
+      "difficulty": "Medium",
+      "timestamp": "1747507769",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
       "title": "Count Sub Islands",
       "titleSlug": "count-sub-islands",
       "difficulty": "Medium",
@@ -619,15 +628,6 @@
       "titleSlug": "n-queens",
       "difficulty": "Hard",
       "timestamp": "1746171005",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Sudoku Solver",
-      "titleSlug": "sudoku-solver",
-      "difficulty": "Hard",
-      "timestamp": "1746152643",
       "domain": "com",
       "isToday": false
     }
