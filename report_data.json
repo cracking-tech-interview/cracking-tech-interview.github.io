@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747502251,
+  "timestamp": 1747506496,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -543,6 +543,24 @@
     },
     {
       "username": "qisixian1998",
+      "title": "Count Sub Islands",
+      "titleSlug": "count-sub-islands",
+      "difficulty": "Medium",
+      "timestamp": "1747506400",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Max Area of Island",
+      "titleSlug": "max-area-of-island",
+      "difficulty": "Medium",
+      "timestamp": "1747502882",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
       "title": "Number of Closed Islands",
       "titleSlug": "number-of-closed-islands",
       "difficulty": "Medium",
@@ -610,24 +628,6 @@
       "titleSlug": "sudoku-solver",
       "difficulty": "Hard",
       "timestamp": "1746152643",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Permutations",
-      "titleSlug": "permutations",
-      "difficulty": "Medium",
-      "timestamp": "1743810737",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Path With Minimum Effort",
-      "titleSlug": "path-with-minimum-effort",
-      "difficulty": "Medium",
-      "timestamp": "1743722350",
       "domain": "com",
       "isToday": false
     }
