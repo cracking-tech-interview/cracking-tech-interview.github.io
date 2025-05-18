@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747538408,
+  "timestamp": 1747542505,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -543,6 +543,15 @@
     },
     {
       "username": "qisixian1998",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "Medium",
+      "timestamp": "1747538746",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qisixian1998",
       "title": "Minesweeper",
       "titleSlug": "minesweeper",
       "difficulty": "Medium",
@@ -619,15 +628,6 @@
       "titleSlug": "n-queens-ii",
       "difficulty": "Hard",
       "timestamp": "1746171305",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "N-Queens",
-      "titleSlug": "n-queens",
-      "difficulty": "Hard",
-      "timestamp": "1746171005",
       "domain": "com",
       "isToday": false
     }
