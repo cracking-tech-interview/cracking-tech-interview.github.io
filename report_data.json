@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748459904,
+  "timestamp": 1748463902,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -248,7 +248,7 @@
       "username": "ping2024",
       "title": "Dota2 Senate",
       "titleSlug": "dota2-senate",
-      "difficulty": "Medium",
+      "difficulty": "Unknown",
       "timestamp": "1744439207",
       "domain": "com",
       "isToday": false
