@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748574797,
+  "timestamp": 1748579296,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -347,7 +347,7 @@
       "username": "yangzhaocamo",
       "title": "Happy Number",
       "titleSlug": "happy-number",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1744560732",
       "domain": "com",
       "isToday": false
