@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748834624,
+  "timestamp": 1748838739,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -538,96 +538,6 @@
       "titleSlug": "largest-odd-number-in-string",
       "difficulty": "Easy",
       "timestamp": "1745496457",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Dungeon Game",
-      "titleSlug": "dungeon-game",
-      "difficulty": "Hard",
-      "timestamp": "1748232274",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Minimum Path Sum",
-      "titleSlug": "minimum-path-sum",
-      "difficulty": "Medium",
-      "timestamp": "1748224236",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Unique Paths II",
-      "titleSlug": "unique-paths-ii",
-      "difficulty": "Medium",
-      "timestamp": "1748223945",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Unique Paths",
-      "titleSlug": "unique-paths",
-      "difficulty": "Medium",
-      "timestamp": "1748161532",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Coin Change",
-      "titleSlug": "coin-change",
-      "difficulty": "Medium",
-      "timestamp": "1747985852",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Generate Parentheses",
-      "titleSlug": "generate-parentheses",
-      "difficulty": "Medium",
-      "timestamp": "1747538746",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Minesweeper",
-      "titleSlug": "minesweeper",
-      "difficulty": "Medium",
-      "timestamp": "1747507769",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Count Sub Islands",
-      "titleSlug": "count-sub-islands",
-      "difficulty": "Medium",
-      "timestamp": "1747506400",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Max Area of Island",
-      "titleSlug": "max-area-of-island",
-      "difficulty": "Medium",
-      "timestamp": "1747502882",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qisixian1998",
-      "title": "Number of Closed Islands",
-      "titleSlug": "number-of-closed-islands",
-      "difficulty": "Medium",
-      "timestamp": "1747502363",
       "domain": "com",
       "isToday": false
     }
