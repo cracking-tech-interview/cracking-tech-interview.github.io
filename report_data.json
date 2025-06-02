@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748838739,
+  "timestamp": 1748841798,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "timestamp": "1748841026",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "LRU Cache",
       "titleSlug": "lru-cache",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "subarray-sum-equals-k",
       "difficulty": "Medium",
       "timestamp": "1748053432",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "String to Integer (atoi)",
-      "titleSlug": "string-to-integer-atoi",
-      "difficulty": "Medium",
-      "timestamp": "1747979698",
       "domain": "com",
       "isToday": false
     },
@@ -538,6 +538,96 @@
       "titleSlug": "largest-odd-number-in-string",
       "difficulty": "Easy",
       "timestamp": "1745496457",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Dungeon Game",
+      "titleSlug": "dungeon-game",
+      "difficulty": "Hard",
+      "timestamp": "1748232274",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Minimum Path Sum",
+      "titleSlug": "minimum-path-sum",
+      "difficulty": "Medium",
+      "timestamp": "1748224236",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Unique Paths II",
+      "titleSlug": "unique-paths-ii",
+      "difficulty": "Medium",
+      "timestamp": "1748223945",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Unique Paths",
+      "titleSlug": "unique-paths",
+      "difficulty": "Medium",
+      "timestamp": "1748161532",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "Medium",
+      "timestamp": "1747985852",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "Medium",
+      "timestamp": "1747538746",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Minesweeper",
+      "titleSlug": "minesweeper",
+      "difficulty": "Medium",
+      "timestamp": "1747507769",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Count Sub Islands",
+      "titleSlug": "count-sub-islands",
+      "difficulty": "Medium",
+      "timestamp": "1747506400",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Max Area of Island",
+      "titleSlug": "max-area-of-island",
+      "difficulty": "Medium",
+      "timestamp": "1747502882",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "qisixian1998",
+      "title": "Number of Closed Islands",
+      "titleSlug": "number-of-closed-islands",
+      "difficulty": "Medium",
+      "timestamp": "1747502363",
       "domain": "com",
       "isToday": false
     }
