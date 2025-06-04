@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749061906,
+  "timestamp": 1749064706,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -230,7 +230,7 @@
       "username": "ping2024",
       "title": "Removing Stars From a String",
       "titleSlug": "removing-stars-from-a-string",
-      "difficulty": "Medium",
+      "difficulty": "Unknown",
       "timestamp": "1744684537",
       "domain": "com",
       "isToday": false
@@ -338,7 +338,7 @@
       "username": "yangzhaocamo",
       "title": "Contains Duplicate II",
       "titleSlug": "contains-duplicate-ii",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1744700086",
       "domain": "com",
       "isToday": false
