@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749184199,
+  "timestamp": 1749187377,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "N-Queens",
+      "titleSlug": "n-queens",
+      "difficulty": "Hard",
+      "timestamp": "1749186407",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Add Two Numbers",
       "titleSlug": "add-two-numbers",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "longest-consecutive-sequence",
       "difficulty": "Medium",
       "timestamp": "1748407942",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Top K Frequent Elements",
-      "titleSlug": "top-k-frequent-elements",
-      "difficulty": "Medium",
-      "timestamp": "1748323951",
       "domain": "com",
       "isToday": false
     },
