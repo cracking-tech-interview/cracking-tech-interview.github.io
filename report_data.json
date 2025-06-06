@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749191633,
+  "timestamp": 1749194484,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -41,7 +41,7 @@
       "username": "SenHou2023",
       "title": "Successful Pairs of Spells and Potions",
       "titleSlug": "successful-pairs-of-spells-and-potions",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1746031032",
       "domain": "com",
       "isToday": false
@@ -368,7 +368,7 @@
       "difficulty": "Hard",
       "timestamp": "1749186407",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "qq2448127758",
