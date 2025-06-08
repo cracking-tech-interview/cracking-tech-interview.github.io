@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749403064,
+  "timestamp": 1749407307,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -212,7 +212,7 @@
       "username": "ping2024",
       "title": "Decode String",
       "titleSlug": "decode-string",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1744780401",
       "domain": "com",
       "isToday": false
