@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749360127,
+  "timestamp": 1749364293,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "Medium",
+      "timestamp": "1749362296",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "Spiral Matrix II",
       "titleSlug": "spiral-matrix-ii",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "exclusive-time-of-functions",
       "difficulty": "Medium",
       "timestamp": "1748585462",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Jump Game II",
-      "titleSlug": "jump-game-ii",
-      "difficulty": "Medium",
-      "timestamp": "1748485645",
       "domain": "com",
       "isToday": false
     },
