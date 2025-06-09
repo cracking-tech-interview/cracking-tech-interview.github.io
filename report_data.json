@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749440003,
+  "timestamp": 1749443642,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -363,6 +363,15 @@
     },
     {
       "username": "qq2448127758",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "timestamp": "1749440227",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "qq2448127758",
       "title": "3Sum",
       "titleSlug": "3sum",
       "difficulty": "Medium",
@@ -439,15 +448,6 @@
       "titleSlug": "edit-distance",
       "difficulty": "Medium",
       "timestamp": "1748671092",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "qq2448127758",
-      "title": "Exclusive Time of Functions",
-      "titleSlug": "exclusive-time-of-functions",
-      "difficulty": "Medium",
-      "timestamp": "1748585462",
       "domain": "com",
       "isToday": false
     },
