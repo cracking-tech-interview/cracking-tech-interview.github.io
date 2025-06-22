@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750566785,
+  "timestamp": 1750569690,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -104,7 +104,7 @@
       "username": "ablozhou",
       "title": "Implement Trie (Prefix Tree)",
       "titleSlug": "implement-trie-prefix-tree",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1746774315",
       "domain": "com",
       "isToday": false
