@@ -1,6 +1,15 @@
 {
-  "timestamp": 1751476840,
+  "timestamp": 1751481160,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find the Original Typed String I",
+      "titleSlug": "find-the-original-typed-string-i",
+      "difficulty": "Easy",
+      "timestamp": "1751480477",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Compare Strings by Frequency of the Smallest Character",
@@ -79,15 +88,6 @@
       "titleSlug": "search-insert-position",
       "difficulty": "Easy",
       "timestamp": "1745448918",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Find First and Last Position of Element in Sorted Array",
-      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
-      "difficulty": "Medium",
-      "timestamp": "1745345907",
       "domain": "com",
       "isToday": false
     },
