@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752179170,
+  "timestamp": 1752182593,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -581,7 +581,7 @@
       "username": "qisixian1998",
       "title": "Coin Change",
       "titleSlug": "coin-change",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1747985852",
       "domain": "com",
       "isToday": false
