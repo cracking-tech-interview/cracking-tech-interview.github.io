@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752545020,
+  "timestamp": 1752552020,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -180,6 +180,15 @@
       "timestamp": "1745643331",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Print Zero Even Odd",
+      "titleSlug": "print-zero-even-odd",
+      "difficulty": "Medium",
+      "timestamp": 1752547143,
+      "domain": "cn",
+      "isToday": true
     },
     {
       "username": "ping2024",
