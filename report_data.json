@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752643738,
+  "timestamp": 1752647767,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -179,6 +179,33 @@
       "difficulty": "Medium",
       "timestamp": "1745643331",
       "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "Easy",
+      "timestamp": 1752627807,
+      "domain": "cn",
+      "isToday": true
+    },
+    {
+      "username": "kingsley_",
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "Medium",
+      "timestamp": 1752627223,
+      "domain": "cn",
+      "isToday": true
+    },
+    {
+      "username": "kingsley_",
+      "title": "Print Zero Even Odd",
+      "titleSlug": "print-zero-even-odd",
+      "difficulty": "Medium",
+      "timestamp": 1752547143,
+      "domain": "cn",
       "isToday": false
     },
     {
