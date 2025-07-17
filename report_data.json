@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752730064,
+  "timestamp": 1752734147,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -180,6 +180,15 @@
       "timestamp": "1745643331",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "timestamp": 1752733028,
+      "domain": "cn",
+      "isToday": true
     },
     {
       "username": "kingsley_",
