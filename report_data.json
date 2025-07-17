@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752734147,
+  "timestamp": 1752737081,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -188,7 +188,7 @@
       "difficulty": "Medium",
       "timestamp": 1752733028,
       "domain": "cn",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "kingsley_",
@@ -196,24 +196,6 @@
       "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
       "difficulty": "Medium",
       "timestamp": 1752729880,
-      "domain": "cn",
-      "isToday": true
-    },
-    {
-      "username": "kingsley_",
-      "title": "Valid Parentheses",
-      "titleSlug": "valid-parentheses",
-      "difficulty": "Easy",
-      "timestamp": 1752627807,
-      "domain": "cn",
-      "isToday": false
-    },
-    {
-      "username": "kingsley_",
-      "title": "LRU Cache",
-      "titleSlug": "lru-cache",
-      "difficulty": "Medium",
-      "timestamp": 1752627223,
       "domain": "cn",
       "isToday": false
     },
