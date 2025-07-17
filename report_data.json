@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752727545,
+  "timestamp": 1752730064,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -180,6 +180,15 @@
       "timestamp": "1745643331",
       "domain": "com",
       "isToday": false
+    },
+    {
+      "username": "kingsley_",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "timestamp": 1752729880,
+      "domain": "cn",
+      "isToday": true
     },
     {
       "username": "kingsley_",
