@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752820548,
+  "timestamp": 1752823557,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -179,24 +179,6 @@
       "difficulty": "Medium",
       "timestamp": "1745643331",
       "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "kingsley_",
-      "title": "Top K Frequent Elements",
-      "titleSlug": "top-k-frequent-elements",
-      "difficulty": "Medium",
-      "timestamp": 1752733028,
-      "domain": "cn",
-      "isToday": false
-    },
-    {
-      "username": "kingsley_",
-      "title": "Lowest Common Ancestor of a Binary Tree",
-      "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
-      "difficulty": "Medium",
-      "timestamp": 1752729880,
-      "domain": "cn",
       "isToday": false
     },
     {
