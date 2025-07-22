@@ -1,6 +1,15 @@
 {
-  "timestamp": 1753166177,
+  "timestamp": 1753169156,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "timestamp": "1753168929",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Find the Original Typed String I",
@@ -79,15 +88,6 @@
       "titleSlug": "binary-search",
       "difficulty": "Easy",
       "timestamp": "1745903630",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Search Insert Position",
-      "titleSlug": "search-insert-position",
-      "difficulty": "Easy",
-      "timestamp": "1745448918",
       "domain": "com",
       "isToday": false
     },
