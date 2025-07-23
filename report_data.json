@@ -1,6 +1,15 @@
 {
-  "timestamp": 1753291469,
+  "timestamp": 1753295706,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "timestamp": "1753293908",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Number of Vowels in a Substring of Given Length",
@@ -79,15 +88,6 @@
       "titleSlug": "find-smallest-letter-greater-than-target",
       "difficulty": "Easy",
       "timestamp": "1745906115",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Binary Search",
-      "titleSlug": "binary-search",
-      "difficulty": "Easy",
-      "timestamp": "1745903630",
       "domain": "com",
       "isToday": false
     },
