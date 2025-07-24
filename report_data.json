@@ -1,6 +1,15 @@
 {
-  "timestamp": 1753334931,
+  "timestamp": 1753339020,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Search Insert Position",
+      "titleSlug": "search-insert-position",
+      "difficulty": "Easy",
+      "timestamp": "1753337373",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Find First and Last Position of Element in Sorted Array",
@@ -79,15 +88,6 @@
       "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
       "difficulty": "Easy",
       "timestamp": "1745967685",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Find Smallest Letter Greater Than Target",
-      "titleSlug": "find-smallest-letter-greater-than-target",
-      "difficulty": "Easy",
-      "timestamp": "1745906115",
       "domain": "com",
       "isToday": false
     },
