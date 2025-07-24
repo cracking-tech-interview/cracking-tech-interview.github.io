@@ -1,6 +1,15 @@
 {
-  "timestamp": 1753339020,
+  "timestamp": 1753341979,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Is Graph Bipartite?",
+      "titleSlug": "is-graph-bipartite",
+      "difficulty": "Medium",
+      "timestamp": "1753340626",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Search Insert Position",
@@ -8,7 +17,7 @@
       "difficulty": "Easy",
       "timestamp": "1753337373",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -17,7 +26,7 @@
       "difficulty": "Medium",
       "timestamp": "1753303160",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -79,15 +88,6 @@
       "titleSlug": "successful-pairs-of-spells-and-potions",
       "difficulty": "Medium",
       "timestamp": "1746031032",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Count of Positive Integer and Negative Integer",
-      "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
-      "difficulty": "Easy",
-      "timestamp": "1745967685",
       "domain": "com",
       "isToday": false
     },
