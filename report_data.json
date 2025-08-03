@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754198993,
+  "timestamp": 1754202850,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -572,7 +572,7 @@
       "username": "qisixian1998",
       "title": "Unique Paths",
       "titleSlug": "unique-paths",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1748161532",
       "domain": "com",
       "isToday": false
