@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755551985,
+  "timestamp": 1755555582,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,24 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "XOR After Range Multiplication Queries I",
+      "titleSlug": "xor-after-range-multiplication-queries-i",
+      "difficulty": "Medium",
+      "timestamp": "1755553040",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
+      "title": "Best Time to Buy and Sell Stock using Strategy",
+      "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
+      "difficulty": "Medium",
+      "timestamp": "1755552449",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Minimum Sensors to Cover Grid",
       "titleSlug": "minimum-sensors-to-cover-grid",
       "difficulty": "Medium",
@@ -160,24 +178,6 @@
       "titleSlug": "maximum-median-sum-of-subsequences-of-size-3",
       "difficulty": "Medium",
       "timestamp": "1754413935",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Fruits Into Baskets II",
-      "titleSlug": "fruits-into-baskets-ii",
-      "difficulty": "Easy",
-      "timestamp": "1754413005",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Fruit Into Baskets",
-      "titleSlug": "fruit-into-baskets",
-      "difficulty": "Medium",
-      "timestamp": "1754347061",
       "domain": "com",
       "isToday": false
     }
