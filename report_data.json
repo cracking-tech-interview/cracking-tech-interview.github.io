@@ -1,6 +1,15 @@
 {
-  "timestamp": 1755489703,
+  "timestamp": 1755494806,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "timestamp": "1755494149",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Is Graph Bipartite?",
@@ -79,15 +88,6 @@
       "titleSlug": "minimum-size-subarray-sum",
       "difficulty": "Medium",
       "timestamp": "1746045402",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Successful Pairs of Spells and Potions",
-      "titleSlug": "successful-pairs-of-spells-and-potions",
-      "difficulty": "Medium",
-      "timestamp": "1746031032",
       "domain": "com",
       "isToday": false
     },
