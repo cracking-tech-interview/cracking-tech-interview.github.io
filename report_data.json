@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756070342,
+  "timestamp": 1756074003,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,33 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Partition Array Into K-Distinct Groups",
+      "titleSlug": "partition-array-into-k-distinct-groups",
+      "difficulty": "Medium",
+      "timestamp": "1756072751",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
+      "title": "GCD of Odd and Even Sums",
+      "titleSlug": "gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "timestamp": "1756071759",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "timestamp": "1756071314",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Maximum Balanced Shipments",
       "titleSlug": "maximum-balanced-shipments",
       "difficulty": "Medium",
@@ -151,33 +178,6 @@
       "titleSlug": "minimum-sensors-to-cover-grid",
       "difficulty": "Medium",
       "timestamp": "1755379941",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Maximum 69 Number",
-      "titleSlug": "maximum-69-number",
-      "difficulty": "Easy",
-      "timestamp": "1755377027",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Maximum K to Sort a Permutation",
-      "titleSlug": "maximum-k-to-sort-a-permutation",
-      "difficulty": "Medium",
-      "timestamp": "1755124115",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Flip Square Submatrix Vertically",
-      "titleSlug": "flip-square-submatrix-vertically",
-      "difficulty": "Easy",
-      "timestamp": "1755111150",
       "domain": "com",
       "isToday": false
     }
