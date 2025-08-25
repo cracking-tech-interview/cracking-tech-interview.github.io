@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756106536,
+  "timestamp": 1756142284,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Diagonal Traverse",
+      "titleSlug": "diagonal-traverse",
+      "difficulty": "Medium",
+      "timestamp": "1756114923",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Partition Array Into K-Distinct Groups",
       "titleSlug": "partition-array-into-k-distinct-groups",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
       "difficulty": "Medium",
       "timestamp": "1755552449",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Minimum Sensors to Cover Grid",
-      "titleSlug": "minimum-sensors-to-cover-grid",
-      "difficulty": "Medium",
-      "timestamp": "1755379941",
       "domain": "com",
       "isToday": false
     }
