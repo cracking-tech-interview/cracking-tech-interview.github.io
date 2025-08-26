@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756192894,
+  "timestamp": 1756228755,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Maximum Area of Longest Diagonal Rectangle",
+      "titleSlug": "maximum-area-of-longest-diagonal-rectangle",
+      "difficulty": "Easy",
+      "timestamp": "1756199515",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Diagonal Traverse",
       "titleSlug": "diagonal-traverse",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "xor-after-range-multiplication-queries-i",
       "difficulty": "Medium",
       "timestamp": "1755553040",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Best Time to Buy and Sell Stock using Strategy",
-      "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
-      "difficulty": "Medium",
-      "timestamp": "1755552449",
       "domain": "com",
       "isToday": false
     }
