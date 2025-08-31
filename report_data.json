@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756675099,
+  "timestamp": 1756678773,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Restore Finishing Order",
+      "titleSlug": "restore-finishing-order",
+      "difficulty": "Easy",
+      "timestamp": "1756678690",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Find The Least Frequent Digit",
       "titleSlug": "find-the-least-frequent-digit",
       "difficulty": "Easy",
@@ -169,15 +178,6 @@
       "titleSlug": "trionic-array-i",
       "difficulty": "Easy",
       "timestamp": "1755882126",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Find the Minimum Area to Cover All Ones I",
-      "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
-      "difficulty": "Medium",
-      "timestamp": "1755880777",
       "domain": "com",
       "isToday": false
     },
