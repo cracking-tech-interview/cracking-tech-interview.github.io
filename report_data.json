@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756595926,
+  "timestamp": 1756604957,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,15 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Find The Least Frequent Digit",
+      "titleSlug": "find-the-least-frequent-digit",
+      "difficulty": "Easy",
+      "timestamp": "1756604190",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Alice and Bob Playing Flower Game",
       "titleSlug": "alice-and-bob-playing-flower-game",
       "difficulty": "Medium",
@@ -169,15 +178,6 @@
       "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
       "difficulty": "Medium",
       "timestamp": "1755880777",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Number of Zero-Filled Subarrays",
-      "titleSlug": "number-of-zero-filled-subarrays",
-      "difficulty": "Medium",
-      "timestamp": "1755638669",
       "domain": "com",
       "isToday": false
     },
