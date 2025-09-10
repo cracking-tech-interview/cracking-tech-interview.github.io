@@ -1,6 +1,15 @@
 {
-  "timestamp": 1757485913,
+  "timestamp": 1757488829,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Number of People to Teach",
+      "titleSlug": "minimum-number-of-people-to-teach",
+      "difficulty": "Medium",
+      "timestamp": "1757487815",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Largest Unique Number",
@@ -8,7 +17,7 @@
       "difficulty": "Easy",
       "timestamp": "1757451768",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -17,7 +26,7 @@
       "difficulty": "Medium",
       "timestamp": "1757451183",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -26,7 +35,7 @@
       "difficulty": "Easy",
       "timestamp": "1757451075",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -35,7 +44,7 @@
       "difficulty": "Medium",
       "timestamp": "1757449656",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -44,7 +53,7 @@
       "difficulty": "Medium",
       "timestamp": "1757402047",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -79,15 +88,6 @@
       "titleSlug": "is-graph-bipartite",
       "difficulty": "Medium",
       "timestamp": "1753340626",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Search Insert Position",
-      "titleSlug": "search-insert-position",
-      "difficulty": "Easy",
-      "timestamp": "1753337373",
       "domain": "com",
       "isToday": false
     },
