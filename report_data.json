@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757920945,
+  "timestamp": 1757956683,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,24 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Maximize Sum of At Most K Distinct Elements",
+      "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
+      "difficulty": "Easy",
+      "timestamp": "1757954176",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
+      "title": "Earliest Time to Finish One Task",
+      "titleSlug": "earliest-time-to-finish-one-task",
+      "difficulty": "Easy",
+      "timestamp": "1757953616",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Minimum Operations to Transform String",
       "titleSlug": "minimum-operations-to-transform-string",
       "difficulty": "Medium",
@@ -160,24 +178,6 @@
       "titleSlug": "diagonal-traverse",
       "difficulty": "Medium",
       "timestamp": "1756114923",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Partition Array Into K-Distinct Groups",
-      "titleSlug": "partition-array-into-k-distinct-groups",
-      "difficulty": "Medium",
-      "timestamp": "1756072751",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "GCD of Odd and Even Sums",
-      "titleSlug": "gcd-of-odd-and-even-sums",
-      "difficulty": "Easy",
-      "timestamp": "1756071759",
       "domain": "com",
       "isToday": false
     },
