@@ -1,6 +1,15 @@
 {
-  "timestamp": 1757967768,
+  "timestamp": 1757971121,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Number of Words You Can Type",
+      "titleSlug": "maximum-number-of-words-you-can-type",
+      "difficulty": "Easy",
+      "timestamp": "1757969249",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Vowel Spellchecker",
@@ -79,15 +88,6 @@
       "titleSlug": "largest-unique-number",
       "difficulty": "Easy",
       "timestamp": "1757451075",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Campus Bikes II",
-      "titleSlug": "campus-bikes-ii",
-      "difficulty": "Medium",
-      "timestamp": "1757449656",
       "domain": "com",
       "isToday": false
     },
