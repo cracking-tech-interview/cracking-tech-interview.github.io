@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758496705,
+  "timestamp": 1758505772,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -93,6 +93,24 @@
     },
     {
       "username": "woodyiiiiiii",
+      "title": "Maximum Total Subarray Value I",
+      "titleSlug": "maximum-total-subarray-value-i",
+      "difficulty": "Medium",
+      "timestamp": "1758501893",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
+      "title": "Bitwise OR of Even Numbers in an Array",
+      "titleSlug": "bitwise-or-of-even-numbers-in-an-array",
+      "difficulty": "Easy",
+      "timestamp": "1758501251",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "woodyiiiiiii",
       "title": "Maximize Sum of At Most K Distinct Elements",
       "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
       "difficulty": "Easy",
@@ -160,24 +178,6 @@
       "titleSlug": "alice-and-bob-playing-flower-game",
       "difficulty": "Medium",
       "timestamp": "1756491378",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Maximum Area of Longest Diagonal Rectangle",
-      "titleSlug": "maximum-area-of-longest-diagonal-rectangle",
-      "difficulty": "Easy",
-      "timestamp": "1756199515",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Diagonal Traverse",
-      "titleSlug": "diagonal-traverse",
-      "difficulty": "Medium",
-      "timestamp": "1756114923",
       "domain": "com",
       "isToday": false
     },
