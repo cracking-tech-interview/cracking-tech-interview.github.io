@@ -1,6 +1,15 @@
 {
-  "timestamp": 1758522855,
+  "timestamp": 1758525749,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "difficulty": "Easy",
+      "timestamp": "1758525487",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Number of Words You Can Type",
@@ -83,22 +92,13 @@
       "isToday": false
     },
     {
-      "username": "SenHou2023",
-      "title": "Largest Unique Number",
-      "titleSlug": "largest-unique-number",
-      "difficulty": "Easy",
-      "timestamp": "1757451075",
-      "domain": "com",
-      "isToday": false
-    },
-    {
       "username": "woodyiiiiiii",
       "title": "Maximum Total Subarray Value I",
       "titleSlug": "maximum-total-subarray-value-i",
       "difficulty": "Medium",
       "timestamp": "1758501893",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "woodyiiiiiii",
@@ -107,7 +107,7 @@
       "difficulty": "Easy",
       "timestamp": "1758501251",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "woodyiiiiiii",
