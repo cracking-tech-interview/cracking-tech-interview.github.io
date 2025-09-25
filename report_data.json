@@ -1,6 +1,15 @@
 {
-  "timestamp": 1758769404,
+  "timestamp": 1758774358,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Triangle",
+      "titleSlug": "triangle",
+      "difficulty": "Medium",
+      "timestamp": "1758771021",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Fraction to Recurring Decimal",
@@ -79,15 +88,6 @@
       "titleSlug": "sort-vowels-in-a-string",
       "difficulty": "Medium",
       "timestamp": "1757569885",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Largest Positive Integer That Exists With Its Negative",
-      "titleSlug": "largest-positive-integer-that-exists-with-its-negative",
-      "difficulty": "Easy",
-      "timestamp": "1757529392",
       "domain": "com",
       "isToday": false
     },
