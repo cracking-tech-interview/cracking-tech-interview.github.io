@@ -1,6 +1,24 @@
 {
-  "timestamp": 1758864068,
+  "timestamp": 1758868329,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "timestamp": "1758866871",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Valid Triangle Number",
+      "titleSlug": "valid-triangle-number",
+      "difficulty": "Medium",
+      "timestamp": "1758865896",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Triangle",
@@ -70,24 +88,6 @@
       "titleSlug": "find-most-frequent-vowel-and-consonant",
       "difficulty": "Easy",
       "timestamp": "1757741904",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Vowels Game in a String",
-      "titleSlug": "vowels-game-in-a-string",
-      "difficulty": "Medium",
-      "timestamp": "1757703970",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Sort Vowels in a String",
-      "titleSlug": "sort-vowels-in-a-string",
-      "difficulty": "Medium",
-      "timestamp": "1757569885",
       "domain": "com",
       "isToday": false
     },
