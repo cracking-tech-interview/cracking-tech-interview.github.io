@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762665647,
+  "timestamp": 1762669871,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -59,7 +59,7 @@
       "username": "SenHou2023",
       "title": "Check If a Number Is Majority Element in a Sorted Array",
       "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1758601010",
       "domain": "com",
       "isToday": false
