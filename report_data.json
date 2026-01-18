@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768721021,
+  "timestamp": 1768756832,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -221,7 +221,7 @@
       "username": "yipian01",
       "title": "Maximum Depth of Binary Tree",
       "titleSlug": "maximum-depth-of-binary-tree",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1739007825",
       "domain": "com",
       "isToday": false
