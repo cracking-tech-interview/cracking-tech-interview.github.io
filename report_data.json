@@ -1,5 +1,5 @@
 {
-  "timestamp": 1769479725,
+  "timestamp": 1769486968,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -59,7 +59,7 @@
       "username": "SenHou2023",
       "title": "Check If a Number Is Majority Element in a Sorted Array",
       "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1758601010",
       "domain": "com",
       "isToday": false
@@ -68,7 +68,7 @@
       "username": "SenHou2023",
       "title": "Maximum Number of Words You Can Type",
       "titleSlug": "maximum-number-of-words-you-can-type",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1757969249",
       "domain": "com",
       "isToday": false
@@ -77,7 +77,7 @@
       "username": "SenHou2023",
       "title": "Vowel Spellchecker",
       "titleSlug": "vowel-spellchecker",
-      "difficulty": "Medium",
+      "difficulty": "Unknown",
       "timestamp": "1757873459",
       "domain": "com",
       "isToday": false
@@ -104,7 +104,7 @@
       "username": "woodyiiiiiii",
       "title": "Maximum Total Subarray Value I",
       "titleSlug": "maximum-total-subarray-value-i",
-      "difficulty": "Medium",
+      "difficulty": "Unknown",
       "timestamp": "1758501893",
       "domain": "com",
       "isToday": false
@@ -176,7 +176,7 @@
       "username": "woodyiiiiiii",
       "title": "Find The Least Frequent Digit",
       "titleSlug": "find-the-least-frequent-digit",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1756604190",
       "domain": "com",
       "isToday": false
@@ -212,7 +212,7 @@
       "username": "yipian01",
       "title": "Best Time to Buy and Sell Stock",
       "titleSlug": "best-time-to-buy-and-sell-stock",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1739093261",
       "domain": "com",
       "isToday": false
@@ -221,7 +221,7 @@
       "username": "yipian01",
       "title": "Maximum Depth of Binary Tree",
       "titleSlug": "maximum-depth-of-binary-tree",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1739007825",
       "domain": "com",
       "isToday": false
@@ -239,7 +239,7 @@
       "username": "yipian01",
       "title": "Linked List Cycle",
       "titleSlug": "linked-list-cycle",
-      "difficulty": "Easy",
+      "difficulty": "Unknown",
       "timestamp": "1738916714",
       "domain": "com",
       "isToday": false
