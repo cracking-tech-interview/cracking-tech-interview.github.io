@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770191398,
+  "timestamp": 1770227402,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -259,15 +259,6 @@
       "titleSlug": "spiral-matrix",
       "difficulty": "Medium",
       "timestamp": "1738743252",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Move Zeroes",
-      "titleSlug": "move-zeroes",
-      "difficulty": "Easy",
-      "timestamp": "1738642450",
       "domain": "com",
       "isToday": false
     }
