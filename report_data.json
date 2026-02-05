@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770275495,
+  "timestamp": 1770313890,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -250,15 +250,6 @@
       "titleSlug": "jump-game",
       "difficulty": "Medium",
       "timestamp": "1738831938",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Spiral Matrix",
-      "titleSlug": "spiral-matrix",
-      "difficulty": "Medium",
-      "timestamp": "1738743252",
       "domain": "com",
       "isToday": false
     }
