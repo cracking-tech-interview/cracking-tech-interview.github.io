@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770361514,
+  "timestamp": 1770399857,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -241,15 +241,6 @@
       "titleSlug": "linked-list-cycle",
       "difficulty": "Easy",
       "timestamp": "1738916714",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Jump Game",
-      "titleSlug": "jump-game",
-      "difficulty": "Medium",
-      "timestamp": "1738831938",
       "domain": "com",
       "isToday": false
     }
