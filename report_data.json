@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770449661,
+  "timestamp": 1770485375,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -232,15 +232,6 @@
       "titleSlug": "minimum-depth-of-binary-tree",
       "difficulty": "Easy",
       "timestamp": "1739007224",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Linked List Cycle",
-      "titleSlug": "linked-list-cycle",
-      "difficulty": "Easy",
-      "timestamp": "1738916714",
       "domain": "com",
       "isToday": false
     }
