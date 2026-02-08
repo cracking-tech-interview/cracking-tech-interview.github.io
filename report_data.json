@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770571804,
+  "timestamp": 1770576104,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -214,24 +214,6 @@
       "titleSlug": "best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
       "timestamp": "1739093261",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Maximum Depth of Binary Tree",
-      "titleSlug": "maximum-depth-of-binary-tree",
-      "difficulty": "Easy",
-      "timestamp": "1739007825",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Minimum Depth of Binary Tree",
-      "titleSlug": "minimum-depth-of-binary-tree",
-      "difficulty": "Easy",
-      "timestamp": "1739007224",
       "domain": "com",
       "isToday": false
     }
