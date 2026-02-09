@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770620983,
+  "timestamp": 1770659524,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -205,15 +205,6 @@
       "titleSlug": "product-of-array-except-self",
       "difficulty": "Medium",
       "timestamp": "1739178094",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Best Time to Buy and Sell Stock",
-      "titleSlug": "best-time-to-buy-and-sell-stock",
-      "difficulty": "Easy",
-      "timestamp": "1739093261",
       "domain": "com",
       "isToday": false
     }
