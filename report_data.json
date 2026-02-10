@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770707430,
+  "timestamp": 1770746658,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -196,15 +196,6 @@
       "titleSlug": "minimum-size-subarray-sum",
       "difficulty": "Medium",
       "timestamp": "1750437233",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Product of Array Except Self",
-      "titleSlug": "product-of-array-except-self",
-      "difficulty": "Medium",
-      "timestamp": "1739178094",
       "domain": "com",
       "isToday": false
     }
