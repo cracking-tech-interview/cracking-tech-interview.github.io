@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771919543,
+  "timestamp": 1771955869,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -14,7 +14,7 @@
       "username": "SenHou2023",
       "title": "Valid Triangle Number",
       "titleSlug": "valid-triangle-number",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1758865896",
       "domain": "com",
       "isToday": false
@@ -86,7 +86,7 @@
       "username": "SenHou2023",
       "title": "Find Most Frequent Vowel and Consonant",
       "titleSlug": "find-most-frequent-vowel-and-consonant",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1757741904",
       "domain": "com",
       "isToday": false
@@ -95,7 +95,7 @@
       "username": "woodyiiiiiii",
       "title": "Count Elements With at Least K Greater Values",
       "titleSlug": "count-elements-with-at-least-k-greater-values",
-      "difficulty": "Unknown",
+      "difficulty": "Medium",
       "timestamp": "1765071471",
       "domain": "com",
       "isToday": false
@@ -122,7 +122,7 @@
       "username": "woodyiiiiiii",
       "title": "Maximize Sum of At Most K Distinct Elements",
       "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1757954176",
       "domain": "com",
       "isToday": false
@@ -176,8 +176,26 @@
       "username": "woodyiiiiiii",
       "title": "Find The Least Frequent Digit",
       "titleSlug": "find-the-least-frequent-digit",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1756604190",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yipian01",
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance",
+      "difficulty": "Medium",
+      "timestamp": "1764720760",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yipian01",
+      "title": "Minimum Size Subarray Sum",
+      "titleSlug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "timestamp": "1750437233",
       "domain": "com",
       "isToday": false
     }
