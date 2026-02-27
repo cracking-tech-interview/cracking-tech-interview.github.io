@@ -1,6 +1,115 @@
 {
-  "timestamp": 1772175712,
-  "submissions": [],
+  "timestamp": 1772213916,
+  "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "timestamp": "1758866871",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Valid Triangle Number",
+      "titleSlug": "valid-triangle-number",
+      "difficulty": "Unknown",
+      "timestamp": "1758865896",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Triangle",
+      "titleSlug": "triangle",
+      "difficulty": "Unknown",
+      "timestamp": "1758771021",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Fraction to Recurring Decimal",
+      "titleSlug": "fraction-to-recurring-decimal",
+      "difficulty": "Unknown",
+      "timestamp": "1758734078",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Compare Version Numbers",
+      "titleSlug": "compare-version-numbers",
+      "difficulty": "Unknown",
+      "timestamp": "1758607178",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Analyze User Website Visit Pattern",
+      "titleSlug": "analyze-user-website-visit-pattern",
+      "difficulty": "Medium",
+      "timestamp": "1758606316",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "difficulty": "Unknown",
+      "timestamp": "1758601010",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Number of Words You Can Type",
+      "titleSlug": "maximum-number-of-words-you-can-type",
+      "difficulty": "Unknown",
+      "timestamp": "1757969249",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Vowel Spellchecker",
+      "titleSlug": "vowel-spellchecker",
+      "difficulty": "Unknown",
+      "timestamp": "1757873459",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "titleSlug": "find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "timestamp": "1757741904",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yipian01",
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance",
+      "difficulty": "Unknown",
+      "timestamp": "1764720760",
+      "domain": "com",
+      "isToday": false
+    },
+    {
+      "username": "yipian01",
+      "title": "Minimum Size Subarray Sum",
+      "titleSlug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "timestamp": "1750437233",
+      "domain": "com",
+      "isToday": false
+    }
+  ],
   "all_users": [
     {
       "username": "SenHou2023",
