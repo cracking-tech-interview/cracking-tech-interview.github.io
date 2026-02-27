@@ -1,25 +1,6 @@
 {
-  "timestamp": 1772171691,
-  "submissions": [
-    {
-      "username": "yipian01",
-      "title": "Edit Distance",
-      "titleSlug": "edit-distance",
-      "difficulty": "Medium",
-      "timestamp": "1764720760",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Minimum Size Subarray Sum",
-      "titleSlug": "minimum-size-subarray-sum",
-      "difficulty": "Medium",
-      "timestamp": "1750437233",
-      "domain": "com",
-      "isToday": false
-    }
-  ],
+  "timestamp": 1772175712,
+  "submissions": [],
   "all_users": [
     {
       "username": "SenHou2023",
