@@ -1,6 +1,15 @@
 {
-  "timestamp": 1780441426,
+  "timestamp": 1780461543,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Peak Index in a Mountain Array",
+      "titleSlug": "peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "timestamp": "1780447090",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Find First and Last Position of Element in Sorted Array",
@@ -79,15 +88,6 @@
       "titleSlug": "vowel-spellchecker",
       "difficulty": "Medium",
       "timestamp": "1757873459",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Find Most Frequent Vowel and Consonant",
-      "titleSlug": "find-most-frequent-vowel-and-consonant",
-      "difficulty": "Easy",
-      "timestamp": "1757741904",
       "domain": "com",
       "isToday": false
     },
