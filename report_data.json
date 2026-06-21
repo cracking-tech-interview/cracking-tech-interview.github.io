@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781993524,
+  "timestamp": 1782000674,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -187,15 +187,6 @@
       "titleSlug": "edit-distance",
       "difficulty": "Medium",
       "timestamp": "1764720760",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "yipian01",
-      "title": "Minimum Size Subarray Sum",
-      "titleSlug": "minimum-size-subarray-sum",
-      "difficulty": "Medium",
-      "timestamp": "1750437233",
       "domain": "com",
       "isToday": false
     }
