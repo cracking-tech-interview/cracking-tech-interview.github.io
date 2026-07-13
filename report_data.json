@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783930693,
+  "timestamp": 1783968306,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -122,7 +122,7 @@
       "username": "woodyiiiiiii",
       "title": "Maximize Sum of At Most K Distinct Elements",
       "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
-      "difficulty": "Unknown",
+      "difficulty": "Easy",
       "timestamp": "1757954176",
       "domain": "com",
       "isToday": false
