@@ -1,6 +1,15 @@
 {
-  "timestamp": 1787597045,
+  "timestamp": 1787599898,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "timestamp": "1787597517",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Peak Index in a Mountain Array",
@@ -79,15 +88,6 @@
       "titleSlug": "maximum-number-of-words-you-can-type",
       "difficulty": "Easy",
       "timestamp": "1757969249",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Vowel Spellchecker",
-      "titleSlug": "vowel-spellchecker",
-      "difficulty": "Medium",
-      "timestamp": "1757873459",
       "domain": "com",
       "isToday": false
     },
