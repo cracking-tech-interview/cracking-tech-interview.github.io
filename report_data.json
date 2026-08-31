@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788164466,
+  "timestamp": 1788212872,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -169,15 +169,6 @@
       "titleSlug": "restore-finishing-order",
       "difficulty": "Easy",
       "timestamp": "1756678690",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Find The Least Frequent Digit",
-      "titleSlug": "find-the-least-frequent-digit",
-      "difficulty": "Easy",
-      "timestamp": "1756604190",
       "domain": "com",
       "isToday": false
     },
