@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788224713,
+  "timestamp": 1788247769,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -160,15 +160,6 @@
       "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
       "difficulty": "Easy",
       "timestamp": "1757357326",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Restore Finishing Order",
-      "titleSlug": "restore-finishing-order",
-      "difficulty": "Easy",
-      "timestamp": "1756678690",
       "domain": "com",
       "isToday": false
     },
