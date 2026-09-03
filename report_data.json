@@ -1,6 +1,15 @@
 {
-  "timestamp": 1788397218,
+  "timestamp": 1788418782,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Average Subarray I",
+      "titleSlug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "timestamp": "1788412096",
+      "domain": "com",
+      "isToday": false
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Number of Vowels in a Substring of Given Length",
@@ -79,15 +88,6 @@
       "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
       "difficulty": "Easy",
       "timestamp": "1758601010",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Number of Words You Can Type",
-      "titleSlug": "maximum-number-of-words-you-can-type",
-      "difficulty": "Easy",
-      "timestamp": "1757969249",
       "domain": "com",
       "isToday": false
     },
