@@ -1,6 +1,15 @@
 {
-  "timestamp": 1788519223,
+  "timestamp": 1788549634,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "timestamp": "1788547512",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Minimum Recolors to Get K Consecutive Black Blocks",
@@ -79,15 +88,6 @@
       "titleSlug": "fraction-to-recurring-decimal",
       "difficulty": "Medium",
       "timestamp": "1758734078",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Compare Version Numbers",
-      "titleSlug": "compare-version-numbers",
-      "difficulty": "Medium",
-      "timestamp": "1758607178",
       "domain": "com",
       "isToday": false
     },
