@@ -1,6 +1,24 @@
 {
-  "timestamp": 1788474260,
+  "timestamp": 1788483078,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+      "difficulty": "Easy",
+      "timestamp": "1788479657",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "timestamp": "1788478666",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Average Subarray I",
@@ -70,24 +88,6 @@
       "titleSlug": "compare-version-numbers",
       "difficulty": "Medium",
       "timestamp": "1758607178",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Analyze User Website Visit Pattern",
-      "titleSlug": "analyze-user-website-visit-pattern",
-      "difficulty": "Medium",
-      "timestamp": "1758606316",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Check If a Number Is Majority Element in a Sorted Array",
-      "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
-      "difficulty": "Easy",
-      "timestamp": "1758601010",
       "domain": "com",
       "isToday": false
     },
