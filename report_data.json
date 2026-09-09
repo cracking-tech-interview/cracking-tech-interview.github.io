@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788915954,
+  "timestamp": 1788937895,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -142,24 +142,6 @@
       "titleSlug": "minimum-operations-to-transform-string",
       "difficulty": "Medium",
       "timestamp": "1757395692",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Minimum Operations to Equalize Array",
-      "titleSlug": "minimum-operations-to-equalize-array",
-      "difficulty": "Easy",
-      "timestamp": "1757357475",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Convert Integer to the Sum of Two No-Zero Integers",
-      "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
-      "difficulty": "Easy",
-      "timestamp": "1757357326",
       "domain": "com",
       "isToday": false
     },
