@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788937895,
+  "timestamp": 1788982660,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -133,15 +133,6 @@
       "titleSlug": "earliest-time-to-finish-one-task",
       "difficulty": "Easy",
       "timestamp": "1757953616",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Minimum Operations to Transform String",
-      "titleSlug": "minimum-operations-to-transform-string",
-      "difficulty": "Medium",
-      "timestamp": "1757395692",
       "domain": "com",
       "isToday": false
     },
