@@ -1,6 +1,15 @@
 {
-  "timestamp": 1789087921,
+  "timestamp": 1789105310,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Average Subarray I",
+      "titleSlug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "timestamp": "1789091372",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Number of Vowels in a Substring of Given Length",
@@ -79,15 +88,6 @@
       "titleSlug": "triangle",
       "difficulty": "Medium",
       "timestamp": "1758771021",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Fraction to Recurring Decimal",
-      "titleSlug": "fraction-to-recurring-decimal",
-      "difficulty": "Medium",
-      "timestamp": "1758734078",
       "domain": "com",
       "isToday": false
     },
