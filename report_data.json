@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789502641,
+  "timestamp": 1789514833,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -124,15 +124,6 @@
       "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
       "difficulty": "Easy",
       "timestamp": "1757954176",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Earliest Time to Finish One Task",
-      "titleSlug": "earliest-time-to-finish-one-task",
-      "difficulty": "Easy",
-      "timestamp": "1757953616",
       "domain": "com",
       "isToday": false
     },
