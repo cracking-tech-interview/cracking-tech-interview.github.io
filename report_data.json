@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789514833,
+  "timestamp": 1789531301,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -115,15 +115,6 @@
       "titleSlug": "bitwise-or-of-even-numbers-in-an-array",
       "difficulty": "Easy",
       "timestamp": "1758501251",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "woodyiiiiiii",
-      "title": "Maximize Sum of At Most K Distinct Elements",
-      "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
-      "difficulty": "Easy",
-      "timestamp": "1757954176",
       "domain": "com",
       "isToday": false
     },
