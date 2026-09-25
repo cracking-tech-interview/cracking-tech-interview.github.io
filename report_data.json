@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790330613,
+  "timestamp": 1790367557,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -79,15 +79,6 @@
       "titleSlug": "valid-triangle-number",
       "difficulty": "Medium",
       "timestamp": "1758865896",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Triangle",
-      "titleSlug": "triangle",
-      "difficulty": "Medium",
-      "timestamp": "1758771021",
       "domain": "com",
       "isToday": false
     },
