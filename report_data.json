@@ -1,14 +1,23 @@
 {
-  "timestamp": 1790975591,
+  "timestamp": 1790989160,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "timestamp": "1790983712",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Average Subarray I",
       "titleSlug": "maximum-average-subarray-i",
       "difficulty": "Easy",
-      "timestamp": "1789091372",
+      "timestamp": "1790982746",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "SenHou2023",
