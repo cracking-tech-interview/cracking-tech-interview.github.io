@@ -1,6 +1,15 @@
 {
-  "timestamp": 1791080851,
+  "timestamp": 1791106136,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "K Radius Subarray Averages",
+      "titleSlug": "k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "timestamp": "1791091245",
+      "domain": "com",
+      "isToday": false
+    },
     {
       "username": "SenHou2023",
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
