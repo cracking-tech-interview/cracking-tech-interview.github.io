@@ -1,6 +1,15 @@
 {
-  "timestamp": 1791335738,
+  "timestamp": 1791361130,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+      "difficulty": "Easy",
+      "timestamp": "1791345856",
+      "domain": "com",
+      "isToday": false
+    },
     {
       "username": "SenHou2023",
       "title": "K Radius Subarray Averages",
