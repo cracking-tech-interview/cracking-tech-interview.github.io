@@ -1,14 +1,14 @@
 {
-  "timestamp": 1791581407,
+  "timestamp": 1791596054,
   "submissions": [
     {
       "username": "SenHou2023",
       "title": "Longest Substring Without Repeating Characters",
       "titleSlug": "longest-substring-without-repeating-characters",
       "difficulty": "Medium",
-      "timestamp": "1791429508",
+      "timestamp": "1791588096",
       "domain": "com",
-      "isToday": false
+      "isToday": true
     },
     {
       "username": "SenHou2023",
