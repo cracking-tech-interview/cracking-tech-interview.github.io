@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792036338,
+  "timestamp": 1792054801,
   "submissions": [
     {
       "username": "SenHou2023",
@@ -8,7 +8,7 @@
       "difficulty": "Medium",
       "timestamp": "1792020477",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
@@ -17,7 +17,7 @@
       "difficulty": "Medium",
       "timestamp": "1792018159",
       "domain": "com",
-      "isToday": true
+      "isToday": false
     },
     {
       "username": "SenHou2023",
