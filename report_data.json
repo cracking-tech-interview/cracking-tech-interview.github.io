@@ -1,6 +1,42 @@
 {
-  "timestamp": 1792371360,
+  "timestamp": 1792389473,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "timestamp": "1792379489",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+      "difficulty": "Easy",
+      "timestamp": "1792379278",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "timestamp": "1792378894",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "titleSlug": "maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "timestamp": "1792376188",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Average Subarray I",
@@ -52,42 +88,6 @@
       "titleSlug": "maximum-sum-of-almost-unique-subarray",
       "difficulty": "Medium",
       "timestamp": "1791703142",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Longest Substring Without Repeating Characters",
-      "titleSlug": "longest-substring-without-repeating-characters",
-      "difficulty": "Medium",
-      "timestamp": "1791588096",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
-      "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
-      "difficulty": "Easy",
-      "timestamp": "1791345856",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "K Radius Subarray Averages",
-      "titleSlug": "k-radius-subarray-averages",
-      "difficulty": "Medium",
-      "timestamp": "1791091245",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
-      "difficulty": "Medium",
-      "timestamp": "1790983712",
       "domain": "com",
       "isToday": false
     },
