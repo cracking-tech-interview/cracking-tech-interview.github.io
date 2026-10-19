@@ -1,6 +1,15 @@
 {
-  "timestamp": 1792414519,
+  "timestamp": 1792444933,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Minimum Removals to Balance Array",
+      "titleSlug": "minimum-removals-to-balance-array",
+      "difficulty": "Medium",
+      "timestamp": "1792435613",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Number of Vowels in a Substring of Given Length",
@@ -79,15 +88,6 @@
       "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
       "difficulty": "Medium",
       "timestamp": "1791704001",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Sum of Almost Unique Subarray",
-      "titleSlug": "maximum-sum-of-almost-unique-subarray",
-      "difficulty": "Medium",
-      "timestamp": "1791703142",
       "domain": "com",
       "isToday": false
     },
