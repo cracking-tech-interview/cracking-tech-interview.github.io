@@ -1,6 +1,15 @@
 {
-  "timestamp": 1792494528,
+  "timestamp": 1792527553,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "timestamp": "1792521392",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Minimum Removals to Balance Array",
@@ -79,15 +88,6 @@
       "titleSlug": "maximum-length-substring-with-two-occurrences",
       "difficulty": "Easy",
       "timestamp": "1791706208",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
-      "difficulty": "Medium",
-      "timestamp": "1791704001",
       "domain": "com",
       "isToday": false
     },
