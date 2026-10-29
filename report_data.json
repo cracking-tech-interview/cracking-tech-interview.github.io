@@ -1,6 +1,15 @@
 {
-  "timestamp": 1793223141,
+  "timestamp": 1793237883,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Fruit Into Baskets",
+      "titleSlug": "fruit-into-baskets",
+      "difficulty": "Medium",
+      "timestamp": "1793231137",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Merge Intervals",
@@ -79,15 +88,6 @@
       "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
       "difficulty": "Medium",
       "timestamp": "1792378894",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Points You Can Obtain from Cards",
-      "titleSlug": "maximum-points-you-can-obtain-from-cards",
-      "difficulty": "Medium",
-      "timestamp": "1792376188",
       "domain": "com",
       "isToday": false
     },
