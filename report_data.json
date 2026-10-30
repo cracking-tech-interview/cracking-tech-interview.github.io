@@ -1,6 +1,24 @@
 {
-  "timestamp": 1793348322,
+  "timestamp": 1793395441,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Sum of Almost Unique Subarray",
+      "titleSlug": "maximum-sum-of-almost-unique-subarray",
+      "difficulty": "Medium",
+      "timestamp": "1793385435",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Get Equal Substrings Within Budget",
+      "titleSlug": "get-equal-substrings-within-budget",
+      "difficulty": "Medium",
+      "timestamp": "1793383282",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Fruit Into Baskets",
@@ -70,24 +88,6 @@
       "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
       "difficulty": "Medium",
       "timestamp": "1792379489",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
-      "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
-      "difficulty": "Easy",
-      "timestamp": "1792379278",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Longest Subarray of 1's After Deleting One Element",
-      "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
-      "difficulty": "Medium",
-      "timestamp": "1792378894",
       "domain": "com",
       "isToday": false
     },
