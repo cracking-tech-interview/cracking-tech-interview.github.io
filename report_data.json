@@ -1,6 +1,42 @@
 {
-  "timestamp": 1793713866,
+  "timestamp": 1793744010,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Maximize the Confusion of an Exam",
+      "titleSlug": "maximize-the-confusion-of-an-exam",
+      "difficulty": "Medium",
+      "timestamp": "1793743220",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "timestamp": "1793729979",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "timestamp": "1793727233",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Erasure Value",
+      "titleSlug": "maximum-erasure-value",
+      "difficulty": "Medium",
+      "timestamp": "1793726051",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Maximum Sum of Almost Unique Subarray",
@@ -52,42 +88,6 @@
       "titleSlug": "group-anagrams",
       "difficulty": "Medium",
       "timestamp": "1792543270",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Longest Substring Without Repeating Characters",
-      "titleSlug": "longest-substring-without-repeating-characters",
-      "difficulty": "Medium",
-      "timestamp": "1792541966",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Two Sum",
-      "titleSlug": "two-sum",
-      "difficulty": "Easy",
-      "timestamp": "1792521392",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Minimum Removals to Balance Array",
-      "titleSlug": "minimum-removals-to-balance-array",
-      "difficulty": "Medium",
-      "timestamp": "1792435613",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
-      "difficulty": "Medium",
-      "timestamp": "1792379489",
       "domain": "com",
       "isToday": false
     },
