@@ -1,6 +1,15 @@
 {
-  "timestamp": 1793879934,
+  "timestamp": 1793918146,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "timestamp": "1793917133",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Longest Consecutive Sequence",
@@ -79,15 +88,6 @@
       "titleSlug": "fruit-into-baskets",
       "difficulty": "Medium",
       "timestamp": "1793231137",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Merge Intervals",
-      "titleSlug": "merge-intervals",
-      "difficulty": "Medium",
-      "timestamp": "1792618862",
       "domain": "com",
       "isToday": false
     },
