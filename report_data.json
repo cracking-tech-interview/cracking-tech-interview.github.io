@@ -1,6 +1,33 @@
 {
-  "timestamp": 1793918146,
+  "timestamp": 1793935041,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Task Scheduler",
+      "titleSlug": "task-scheduler",
+      "difficulty": "Medium",
+      "timestamp": "1793934407",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "Medium",
+      "timestamp": "1793921314",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "Easy",
+      "timestamp": "1793920360",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Top K Frequent Elements",
@@ -61,33 +88,6 @@
       "titleSlug": "maximum-erasure-value",
       "difficulty": "Medium",
       "timestamp": "1793726051",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Sum of Almost Unique Subarray",
-      "titleSlug": "maximum-sum-of-almost-unique-subarray",
-      "difficulty": "Medium",
-      "timestamp": "1793385435",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Get Equal Substrings Within Budget",
-      "titleSlug": "get-equal-substrings-within-budget",
-      "difficulty": "Medium",
-      "timestamp": "1793383282",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Fruit Into Baskets",
-      "titleSlug": "fruit-into-baskets",
-      "difficulty": "Medium",
-      "timestamp": "1793231137",
       "domain": "com",
       "isToday": false
     },
