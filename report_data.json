@@ -1,6 +1,24 @@
 {
-  "timestamp": 1793966111,
+  "timestamp": 1794002296,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "timestamp": "1793997742",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Reorganize String",
+      "titleSlug": "reorganize-string",
+      "difficulty": "Medium",
+      "timestamp": "1793988328",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Task Scheduler",
@@ -70,24 +88,6 @@
       "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
       "difficulty": "Medium",
       "timestamp": "1793729979",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Sum of Distinct Subarrays With Length K",
-      "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
-      "difficulty": "Medium",
-      "timestamp": "1793727233",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximum Erasure Value",
-      "titleSlug": "maximum-erasure-value",
-      "difficulty": "Medium",
-      "timestamp": "1793726051",
       "domain": "com",
       "isToday": false
     },
