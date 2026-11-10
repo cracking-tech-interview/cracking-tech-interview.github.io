@@ -1,6 +1,24 @@
 {
-  "timestamp": 1794185095,
+  "timestamp": 1794270901,
   "submissions": [
+    {
+      "username": "SenHou2023",
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "Medium",
+      "timestamp": "1794259675",
+      "domain": "com",
+      "isToday": true
+    },
+    {
+      "username": "SenHou2023",
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "difficulty": "Medium",
+      "timestamp": "1794248942",
+      "domain": "com",
+      "isToday": true
+    },
     {
       "username": "SenHou2023",
       "title": "Rotting Oranges",
@@ -70,24 +88,6 @@
       "titleSlug": "longest-consecutive-sequence",
       "difficulty": "Medium",
       "timestamp": "1793854133",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Product of Array Except Self",
-      "titleSlug": "product-of-array-except-self",
-      "difficulty": "Medium",
-      "timestamp": "1793851605",
-      "domain": "com",
-      "isToday": false
-    },
-    {
-      "username": "SenHou2023",
-      "title": "Maximize the Confusion of an Exam",
-      "titleSlug": "maximize-the-confusion-of-an-exam",
-      "difficulty": "Medium",
-      "timestamp": "1793743220",
       "domain": "com",
       "isToday": false
     },
